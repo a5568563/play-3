@@ -1,0 +1,35 @@
+<div id="text">
+<div class="ZQ-gap"></div>
+<p>　　<span>德玛西亚杯西安站Day2，EDG在败者组2-1击败了RNG，挺进下一轮。</span></p>
+<p style="text-align:center;"><img alt="EDG赛后群访：SN面对我们没任何优势" src="http://img.dwstatic.com/lol/1812/409371013777/1545416161839.jpg"/></p>
+<p>　　<span>赛后EDG队员和教练接受了媒体群访：</span></p>
+<p>　　<span style="color:#0000FF;"><strong>Q：请问Scout，昨天你说想对阵RNG，今天打完<a href="http://news.duowan.com/" target="_blank">比赛</a>感觉如何？对个人的发挥满意吗？</strong></span></p>
+<p>　　<strong>Scout：</strong>首先我昨天不是说想打RNG，我是说TOP最近状态很好，RNG有可能会输。然后今天的话，失误还是挺多的吧，就这样，一般般吧。</p>
+<p>　　<span style="color:#0000FF;"><strong>Q：想问下Heart，明天会在败者组遇到SN，如何评价SN现在的阵容和状态，感觉胜率如何？</strong></span></p>
+<p>　　<strong>Heart：</strong>我昨天说了，感觉现在队伍都很强的，比如RW现在都是新人，但我感觉真的打得很好。还有其他队伍也是都是很强势，不知道明天……看选手吧，我还是很相信选手。</p>
+<p>　　<span style="color:#0000FF;"><strong>Q：请问下Heart，第三局换上经验没那么丰富的Hope是基于什么考虑？Uzi选出的<a href="http://lol.duowan.com/vayne/" target="_blank">VN</a>在你意料之中吗？</strong></span></p>
+<p>　　<strong>Heart：</strong>大概预测到了，就是RNG输的时候，奥恩啊、<a href="http://lol.duowan.com/vayne/" target="_blank">薇恩</a>啊，等等那种他们拿出来基本上都能赢的<a href="http://lol.duowan.com/hero/" target="_blank">英雄</a>。而且BP的时候Meiko也说了。让Hope上场的理由是，我感觉我们两个AD状态都蛮好的，看BP吧，我感觉BP会怎么样，就让谁上场。</p>
+<p>　　<span style="color:#0000FF;"><strong>Q：请问Scout，昨天说想复仇RNG，今天就赢了他们，怎么看明天和SN的比赛呢？</strong></span></p>
+<p>　　<strong>Scout：</strong>SN的话，首先我没有打过很多次的Maple选手在嘛，就很期待吧。然后他们的比赛也是很激烈吧，都是打到打后期的。<span style="color:#FF0000;"><strong>我个人觉得还是，我们的胜率很高吧。</strong></span></p>
+<p>　　<span style="color:#0000FF;"><strong>Q：请问下Meiko，比赛时间比较长，依旧有很多粉丝在现场支持你们，有什么想对他们说的吗？</strong></span></p>
+<p>　　<strong>Meiko：</strong>刚刚其实采访的时候已经说了嘛，就是非常抱歉，因为比赛打到11点多，让大家很晚都没能回去。首先还是感谢粉丝，希望他们回去的时候注意安全吧，然后回去的时候吃点好吃的。</p>
+<p>　　<span style="color:#0000FF;"><strong>Q：请问Haro，一般前期<a href="http://video.duowan.com/lol/jiaoxue/daye.html" target="_blank">打野</a>会重点针对下路，但你第一局前期非常针对上路，是准备好的战术吗？</strong></span></p>
+<p>　　<strong>Haro：</strong>第一把其实，我们开局前还是想针对下路，只是……太好抓了，所以就都去上路了。</p>
+<p>　　<span style="color:#0000FF;"><strong>Q：想问下Heart，今天的比赛，选手们有把赛前的准备和战术都发挥出来吗？哪位选手的表现你最满意？</strong></span></p>
+<p>　　<strong>Heart：</strong>我觉得我是看队友的，我觉得所有人都是做了自己该做的事情，我觉得都是很好。</p>
+<p>　　<span style="color:#0000FF;"><strong>Q：对现版本的AD有什么看法？</strong></span></p>
+<p>　　<strong>Hope：</strong>这个版本就还是有法师AD和传统AD。</p>
+<p>　　<span style="color:#0000FF;"><strong>Q：能预测一下决赛是哪两支队伍吗？</strong></span></p>
+<p>　　<strong>Heart：</strong>我真的不好说哎，就一个是EDG吧希望，对手是我不知道。</p>
+<p>　　<span style="color:#0000FF;"><strong>Q：第三局临时换人，有没有进行特别的部署？</strong></span></p>
+<p>　　<strong>Heart：</strong>准备的BP是有的，但……秘密。</p>
+<p>　　<span style="color:#0000FF;"><strong>Q：有没有想过跟RNG会打的这么吃力？</strong></span></p>
+<p>　　<strong>iBoy：</strong>我感觉打之前应该就赢了，看他们打了TOP。</p>
+<p>　　<span style="color:#0000FF;"><strong>Q：请问下Hope，看到Uzi拿出VN你当时是怎么想的，是有压力还是兴奋？</strong></span></p>
+<p>　　<strong>Hope：</strong>他选之前我就感觉到他会选了，所以没什么特别的压力。</p>
+<p>　　<span style="color:#0000FF;"><strong>Q：请问下iBoy，明天将对阵SN，今天SN阵容有很大调整，对上他们有信心吗？</strong></span></p>
+<p>　　<strong>iBoy：</strong><span style="color:#FF0000;"><strong>我感觉苏宁面对我们没有任何优势。</strong></span></p>
+<p>　　<span style="color:#0000FF;"><strong>Q：请问iBoy，新赛季有什么目标，比如要成为新生代ADC中最强的那个？</strong></span></p>
+<p>　　<strong>iBoy：</strong>我没什么目标，想拿个更好的成绩。</p>
+<div class="ZQ-gap"></div>
+</div>

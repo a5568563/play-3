@@ -1,0 +1,20 @@
+<div class="news_main">
+<div class="title">
+<h1>12月21日DOTA2网吧启动客户端闪退问题说明</h1>
+<h3>
+								2018-12-21                                <span class="zoom" id="zoom">
+                                    【字号：
+                                    <a data-size="16" href="javascript:;">大</a> 
+                                    <a data-size="14" href="javascript:;">中</a> 
+                                    <a data-size="12" href="javascript:;">小</a>
+                                    】
+                                </span>
+<!-- 来源：-->
+</h3>
+</div>
+<div class="content">
+<p>亲爱的玩家，</p><p><br/></p><p>今日（12月21日）根据玩家反馈发现部分网吧内启动DOTA2客户端进行游戏时偶发游戏闪退问题。目前经过调查和解析了解，原因是部分问题网吧存在三方软件对游戏客户端文件“dota2_core_x64.dll”有修改，导致启动时发生游戏崩溃情况。</p><p>官方正在积极引导那些报告存在问题的网吧去还原官方游戏客户端文件，从而保障网吧玩家正常的游戏体验。</p><p>给您带来的不便，敬请谅解。</p><p><br/></p> <div class="journalism-code" style="color:red;">
+<img alt="" src="/news20160808/images/journalism-codes.jpg"/>
+</div>
+</div>
+</div>

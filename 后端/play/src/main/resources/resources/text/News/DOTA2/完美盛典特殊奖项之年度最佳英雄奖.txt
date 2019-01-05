@@ -1,0 +1,24 @@
+<div class="news_main">
+<div class="title">
+<h1>完美盛典特殊奖项之年度最佳英雄奖</h1>
+<h3>
+								2018-12-18                                <span class="zoom" id="zoom">
+                                    【字号：
+                                    <a data-size="16" href="javascript:;">大</a> 
+                                    <a data-size="14" href="javascript:;">中</a> 
+                                    <a data-size="12" href="javascript:;">小</a>
+                                    】
+                                </span>
+<!-- 来源：-->
+<span class="comments-count" id="comments-count">
+<i class="icon icon-comments"></i>
+<em>0</em>
+</span>
+</h3>
+</div>
+<div class="content">
+<p style="text-align: center;"><span font-size:="" hiragino="" micro="" microsoft="" pingfang="" sans="" style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, " wenquanyi=""></span></p><div id="youkuAPI"><script src="https://player.youku.com/jsapi"></script></div><div class="youku_block" id="youku_player_XMzk2ODU5MDk2OA" style="margin: 0px auto; width: 635px; height: 480px;"> </div><script>var playerXMzk2ODU5MDk2OA = new YKU.Player('youku_player_XMzk2ODU5MDk2OA',{ client_id: 'c69ba80d21db5947', vid: 'XMzk2ODU5MDk2OA'});</script><p> </p><p> </p><p style="text-align: center;"><span font-size:="" hiragino="" micro="" microsoft="" pingfang="" sans="" style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, " wenquanyi=""><br/></span><br/></p><p><span font-size:="" hiragino="" micro="" microsoft="" pingfang="" sans="" style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, " wenquanyi="">2018完美盛典特殊奖项之最佳英雄奖得主揭晓，剧毒术士凭借TI8赛场上69.2%的胜率获得此份殊荣，另外马格纳斯和干扰者分别入选第一百一十五强和一百一十六强英雄名单，恭喜他们。</span></p> <div class="journalism-code" style="color:red;">
+<img alt="" src="/news20160808/images/journalism-codes.jpg"/>
+</div>
+</div>
+</div>

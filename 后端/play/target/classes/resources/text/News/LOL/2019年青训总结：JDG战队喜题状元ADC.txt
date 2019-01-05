@@ -1,0 +1,17 @@
+<div id="text">
+<div class="ZQ-gap"></div>
+<p><span style="color: rgb(0, 0, 255);"><strong>　　结果：</strong></span></p>
+<p>　　<strong><span style="color: rgb(255, 0, 0);">根据执教2周以上教练的投票，本届青训营的状元、榜眼、探花分别是A02，A04（ADC和<a href="http://video.duowan.com/lol/jiaoxue/daye.html" target="_blank">打野</a>双位置）和M02。他们分别去到JDG，EDG和RNG。</span></strong></p>
+<p><span style="color: rgb(0, 0, 255);"><strong>　　选秀规则</strong></span></p>
+<p>　　一共有20支<a href="http://lol.duowan.com/LPL/" target="_blank">LPL</a>和LDL队伍来到现场，每支队伍每一轮拥有一张红票和一张蓝票。红票意味着”第一志愿”，蓝票意味着”第二志愿”，一名选手有一张红票和一张蓝票，给出红票的俱乐部具有优先选择权。如果一名选手收到多张红票，选手拥有反选权。选手选择后，有效红票将无法再使用，无效红票将退还给俱乐部。</p>
+<p>　　前面的英文是位置代码，后面是编号。A01=ADC01，M02=Mid02，以此类推。</p>
+<p>　　[cp]所有青训选手在接下来一个月将进入到俱乐部试训，并在这一个月和俱乐部签署正式合同或放弃签署正式合同。如放弃签署合同，他们只能通过下一次青训营签约俱乐部(防止俱乐部私下和选手达成共识，破坏选秀公平性)。如签约，他们需要在LDL登场一定场次后才有资格进入一队（嚯嚯，王校长条款）。</p>
+<p><span style="color: rgb(0, 0, 255);"><strong>　　第一轮选票</strong></span></p>
+<p style="text-align: center;"><img alt="2019年青训总结：JDG战队喜题状元ADC" data-h="381" data-imgid="c3ee8bee750e045a015fbbe575f6d8f4" data-w="733" src="http://img3.dwstatic.com/lol/1812/410006370359/410006569223.png"/></p>
+<p><span style="color: rgb(0, 0, 255);"><strong>　　第一轮匹配结果</strong></span></p>
+<p>　　A04在EDG和iG中选择了EDG，有意思的是，这名选手最开始是一名AD选手，中途在教练的引导下，转为打野后仍然表现优异，最后是以打野选手的身份参加的选秀。</p>
+<p><span style="color: rgb(0, 0, 255);"><strong>　　最终结果</strong></span></p>
+<p style="text-align: center;"><img alt="2019年青训总结：JDG战队喜题状元ADC" data-h="394" data-imgid="2c24a91d29d5e3fa95b9f92ecbbeb4cf" data-w="712" src="http://img1.dwstatic.com/lol/1812/410006370359/410006569224.png"/></p>
+<p>　　OMG战队引入三名选手，WE战队也选择了一名AD选手。</p>
+<div class="ZQ-gap"></div>
+</div>

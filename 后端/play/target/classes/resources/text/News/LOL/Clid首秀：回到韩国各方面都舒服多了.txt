@@ -1,0 +1,27 @@
+<div id="text">
+<div class="ZQ-gap"></div>
+<p>　　<span>在昨天的KeSPA杯赛上，SKT T1战队以2-0战胜了APK战队。这是Clid选手在韩国打的第一场<a href="http://news.duowan.com/" target="_blank">比赛</a>，他的<a href="http://lol.duowan.com/leesin/" target="_blank">盲僧</a>和<a href="http://lol.duowan.com/leesin/" target="_blank">李青</a>展现出了独特而具有攻击性的打法。</span></p>
+<p>　　以下是对SKT T1 Clid选手的采访。</p>
+<p style="text-align: center;"><img alt="Clid首秀：回到韩国各方面都舒服多了" data-source="web" src="http://img3.dwstatic.com/lol/1812/409336605609/409336882395.jpeg"/></p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：你对于胜利感觉如何？</strong></span></p>
+<p>　　Clid：在赛场上取得胜利让我很开心。我感觉自己有一个很好的开始。</p>
+<p>　<span style="color: rgb(0, 0, 255);"><strong>　问：我想知道你为什么第一局选择了盲僧，第二局选择了<a href="http://lol.duowan.com/nocturne/" target="_blank">魔腾</a>。</strong></span></p>
+<p>　　Clid：第一局里，<a href="http://lol.duowan.com/camille/" target="_blank">卡蜜尔</a>被禁用之后李青是一个很好的选择。第二局，我们就在剩下的<a href="http://lol.duowan.com/hero/" target="_blank">英雄</a>里面选择了一个好的。</p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：满分10分的话，你会给自己几天的表现打几分？</strong></span></p>
+<p>　　Clid：我会给自己打7分。我对于自己今天的表现并不满意。</p>
+<p>　<span style="color: rgb(0, 0, 255);"><strong>　问：目前为止你和SKT的哪个选手配合最好？</strong></span></p>
+<p>　　Clid：<span style="color: rgb(255, 0, 0);"><strong>我认为是Khan已经有一阵子了，所以我们共同配合得很好。他嗓门很大，但是我和他相处得不错。</strong></span></p>
+<p>　<span style="color: rgb(0, 0, 255);"><strong>　问：比赛里面谁来指挥呢？</strong></span></p>
+<p>　　Clid：包括我在内，五名选手都很健谈，都是很出色的选手。比赛中大家都很尊重彼此的想法。</p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：你在中国打了两年然后来到了SKT。哪些方面变得更好了呢？</strong></span></p>
+<p>　　Clid：<span style="color: rgb(255, 0, 0);"><strong>首先，东西很好吃。另外，队伍中的每个人对我都很好。很多东西对我来说都舒服多了。</strong></span></p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：你把Haru当成自己的对手吗？</strong></span></p>
+<p>　　Clid：与其说对手，我个人为他是一个对我有帮助的伙伴。</p>
+<p>　<span style="color: rgb(0, 0, 255);"><strong>　问：新重建的SKT被认为是“梦之队”。你肩膀上担子肯定很重吧。</strong></span></p>
+<p>　　Clid：<span style="color: rgb(255, 0, 0);"><strong>有一些压力，但是我的精力完全都放到取胜上面，所以并没有真正地影响到我。</strong></span></p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：你有什么相对SKT的粉丝们说的吗？</strong></span></p>
+<p>　　Clid：我会尽全力表现得更好，比2018年的SKT取得更好的成绩。</p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：还有什么想说的吗？</strong></span></p>
+<p>　　Clid：我想感谢我的教练，主教练和队友。他们总是一晚晚地在努力，即便是KeSPA之前。我还希望粉丝们能继续支持我们。</p>
+<div class="ZQ-gap"></div>
+</div>

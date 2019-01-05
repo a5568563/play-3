@@ -1,0 +1,24 @@
+<div class="news_main">
+<div class="title">
+<h1>【视频】DOTA2 7.20地图改动一览</h1>
+<h3>
+								2018-11-25                                <span class="zoom" id="zoom">
+                                    【字号：
+                                    <a data-size="16" href="javascript:;">大</a> 
+                                    <a data-size="14" href="javascript:;">中</a> 
+                                    <a data-size="12" href="javascript:;">小</a>
+                                    】
+                                </span>
+<!-- 来源：-->
+<span class="comments-count" id="comments-count">
+<i class="icon icon-comments"></i>
+<em>0</em>
+</span>
+</h3>
+</div>
+<div class="content">
+<p style="text-align: center;"><br/></p><div id="youkuAPI"><script src="https://player.youku.com/jsapi"></script></div><div class="youku_block" id="youku_player_XMzkzNDYxNTIxMg" style="margin: 0px auto; width: 635px; height: 480px;"> </div><script>var playerXMzkzNDYxNTIxMg = new YKU.Player('youku_player_XMzkzNDYxNTIxMg',{ client_id: 'c69ba80d21db5947', vid: 'XMzkzNDYxNTIxMg'});</script><p> </p><p> </p><p style="text-align: center;"><span font-size:="" helvetica="" hiragino="" letter-spacing:="" microsoft="" pingfang="" sans="" style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, " text-align:="" yahei=""><br/></span><br/></p><p><span font-size:="" helvetica="" hiragino="" letter-spacing:="" microsoft="" pingfang="" sans="" style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, " text-align:="" yahei="">7.20新地图的改动为了鼓励大家进攻对双方二塔处的地形做了大量调整，并对野区资源利用率较高的英雄进行了限制。</span></p> <div class="journalism-code" style="color:red;">
+<img alt="" src="/news20160808/images/journalism-codes.jpg"/>
+</div>
+</div>
+</div>

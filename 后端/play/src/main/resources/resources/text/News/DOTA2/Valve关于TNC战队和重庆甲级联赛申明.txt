@@ -1,0 +1,24 @@
+<div class="news_main">
+<div class="title">
+<h1>Valve关于TNC战队和重庆甲级联赛申明</h1>
+<h3>
+								2018-12-04                                <span class="zoom" id="zoom">
+                                    【字号：
+                                    <a data-size="16" href="javascript:;">大</a> 
+                                    <a data-size="14" href="javascript:;">中</a> 
+                                    <a data-size="12" href="javascript:;">小</a>
+                                    】
+                                </span>
+<!-- 来源：-->
+<span class="comments-count" id="comments-count">
+<i class="icon icon-comments"></i>
+<em>0</em>
+</span>
+</h3>
+</div>
+<div class="content">
+<p background-color:="" helvetica="" hiragino="" micro="" microsoft="" pingfang="" sans="" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; margin-top: 16px; margin-bottom: 16px; padding: 0px; color: rgb(34, 34, 34); font-family: " wenquanyi="" white-space:="">以下为Valve公告译文：</p><p background-color:="" helvetica="" hiragino="" micro="" microsoft="" pingfang="" sans="" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; margin-top: 16px; margin-bottom: 16px; padding: 0px; color: rgb(34, 34, 34); font-family: " wenquanyi="" white-space:="">近日我们一直在关注TNC和重庆甲级联赛的事态发展。首先需要澄清的是，中国有关部门并未禁止Kuku参赛。尽管围绕他的参赛以及随之产生的问题，外界有着很多疑虑，但我们相信安全威胁并不真正存在。</p><p background-color:="" helvetica="" hiragino="" micro="" microsoft="" pingfang="" sans="" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; margin-top: 16px; margin-bottom: 16px; padding: 0px; color: rgb(34, 34, 34); font-family: " wenquanyi="" white-space:="">我们对于事态的观点是，战队有责任对这样的事件给予专业的处理。若他们处理不当，我们才会介入。犯错和道歉是一码事，但战队说谎，为选手开脱又是另一码事了。TNC在这件事上多次处理失当，让事态变得愈发糟糕。</p><p background-color:="" helvetica="" hiragino="" micro="" microsoft="" pingfang="" sans="" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; margin-top: 16px; margin-bottom: 16px; padding: 0px; color: rgb(34, 34, 34); font-family: " wenquanyi="" white-space:="">上个星期二TNC联系了Valve，询问如果换下Kuku是否会有巡回赛积分的惩罚；我们告知他们不会。我们当时认为他们是在计划将Kuku换成另一名选手。但如今从队伍做出的掩盖行为看来，TNC并不想为他们的行为承担应有的责任，所以现在我们直接介入，禁止Kuku参加此次赛事。还有一点要说明，在此次事件中TNC并非受害者。欲盖弥彰、免去自己的实际责任，再发动社区声援他们的行为并不可取。我们期望他们也能赞同这样的观点。</p><p background-color:="" helvetica="" hiragino="" micro="" microsoft="" pingfang="" sans="" style="-webkit-tap-highlight-color: transparent; box-sizing: border-box; margin-top: 16px; margin-bottom: 16px; padding: 0px; color: rgb(34, 34, 34); font-family: " wenquanyi="" white-space:="">选手和战队在未来可能会犯错，他们应当承担相应的责任。我们想让他们有机会从错误中吸取教训，但承担责任并不意味着犯错就没有代价。掩盖过错并不是解决问题的可取方法，也体现了TNC缺乏责任感才会做出错误的决定。除了Kuku应被换下，我们还将扣除TNC当前巡回赛积分的20%。选手的限赛并不会影响未来的赛事。</p><p><br/></p> <div class="journalism-code" style="color:red;">
+<img alt="" src="/news20160808/images/journalism-codes.jpg"/>
+</div>
+</div>
+</div>

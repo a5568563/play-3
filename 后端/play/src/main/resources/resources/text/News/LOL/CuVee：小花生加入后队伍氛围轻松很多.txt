@@ -1,0 +1,21 @@
+<div id="text">
+<div class="ZQ-gap"></div>
+<p>　　<span>在昨日的韩国KeSPA杯赛半决赛中，Gen.G战队以3-1战胜了KT战队晋级决赛。</span></p>
+<p>　　以下是Gen.G的上单选手CuVee在赛后接受的访问。</p>
+<p style="text-align:center;"><img alt="CuVee：小花生加入后队伍氛围轻松很多" src="http://img5.dwstatic.com/lol/1812/409993896169/409994130648.jpeg"/></p>
+<p>　　<span style="color:#0000FF;"><strong>问：半决赛中战胜了KT感觉如何？</strong></span></p>
+<p>　　<strong>CuVee：</strong>这次<a href="http://news.duowan.com/" target="_blank">比赛</a>很短，很高兴能够打入决赛。我想好好表现赢得冠军。</p>
+<p>　　<span style="color:#0000FF;"><strong>问：总体来说，本场比赛在你看来怎么样？</strong></span></p>
+<p>　　<strong>CuVee：</strong>一切都按照我们训练当中进行的。我对于结果很满意。</p>
+<p>　　<span style="color:#0000FF;"><strong>问：你们队没有太多的时间磨合就来打KeSPA杯赛了。不过，你好像比以前更强了。</strong></span></p>
+<p>　　<strong>CuVee：</strong><strong><span style="color:#FF0000;">现在说还为时太早，但是队伍在训练时候的氛围绝对有变化。我想你可以说比以前更轻松了？或许是因为小花生加入了吧。</span></strong></p>
+<p>　　<span style="color:#0000FF;"><strong>问：你在上路遇到了Smeb和Kingen，这两个选手有什么不同吗？</strong></span></p>
+<p>　　<strong>CuVee：</strong>我感觉Kingen更注重线上，而Smeb虽然他的操作和线上都很强，但是他更注重大局。</p>
+<p>　　<span style="color:#0000FF;"><strong>问：这场比赛你用了三次<a href="http://lol.duowan.com/akali/" target="_blank">阿卡丽</a>，为什么呢？</strong></span></p>
+<p>　　<strong>CuVee：</strong><strong><span style="color:#FF0000;">大家告诉我只要阿卡丽放出来了就要选。</span></strong>这个<a href="http://lol.duowan.com/hero/" target="_blank">英雄</a>我练了很多。此外，虽然<a href="http://lol.duowan.com/urgot/" target="_blank">厄加特</a>是个很强的英雄，我相信阿卡丽只要用得好也可以一样强。</p>
+<p>　　<strong><span style="color:#0000FF;">问：决赛你们的对手是格里芬或者Damwon。你自己想遇到谁呢？</span></strong></p>
+<p>　　<strong>CuVee：</strong>格里芬最大的优势就是团战。我觉得在决赛里面遇到他们会很有意思。</p>
+<p>　　<strong><span style="color:#0000FF;">问：最后有什么想说的吗？</span></strong></p>
+<p>　　<strong>CuVee：</strong>很高兴我们能够打到决赛。这是<a href="http://lol.duowan.com/LCK/" target="_blank">LCK</a>新赛季开始前2018赛季的最后一项比赛了，所以我希望能够赢得冠军给春季赛加把劲。</p>
+<div class="ZQ-gap"></div>
+</div>

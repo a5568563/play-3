@@ -1,0 +1,33 @@
+<div id="text">
+<div class="ZQ-gap"></div>
+<p>　　在今天的韩国KeSPA杯半决赛中，Gen.G战队以3-1战胜了KT战队晋级决赛。</p>
+<p style="text-align: center;"><img alt="Ruler：CuVee太骚一起住一个星期都难" data-source="web" src="http://img4.dwstatic.com/lol/1812/410020465851/410021039480.jpeg" style="text-align: center;"/></p>
+<p>　　<a href="http://news.duowan.com/" target="_blank">比赛</a>之后，Gen.G战队的ADC选手Ruler以及Fly接受了采访。</p>
+<p><span style="color: rgb(0, 0, 255);">　　<strong>问：今天取胜之后感觉如何？</strong></span></p>
+<p>　　Fly：我们队伍有些新队员，还好我们配合得不错。</p>
+<p>　　Ruler：我感觉很棒！</p>
+<p><span style="color: rgb(0, 0, 255);">　　<strong>问Ruler：你对于你今天的表现满意吗？</strong></span></p>
+<p>　　Ruler：我对于我今天的表现不满意，但是我还是很高兴我们取得了胜利。</p>
+<p>　<span style="color: rgb(0, 0, 255);">　</span><strong><span style="color: rgb(0, 0, 255);">问Fly：今天，你好像为队伍改变能力打法。作为队伍里年纪最大的选手是不是会有一种责任感呢？</span></strong></p>
+<p>　　Fly：<span style="color: rgb(255, 0, 0);"><strong>我感觉我一举一动都要小心翼翼的...</strong></span></p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：是不是这会让你在<a href="http://www.duowan.com/" target="_blank">游戏</a>当中有所牺牲呢？</strong></span></p>
+<p>　　Fly：是的。（笑）</p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：Fly，这场比赛佐伊被禁了之后你选了<a href="http://lol.duowan.com/urgot/" target="_blank">厄加特</a>。你对这个<a href="http://lol.duowan.com/hero/" target="_blank">英雄</a>有信心吗？</strong></span></p>
+<p>　　Fly：我没想到禁选的时候我能被针对。很有意思。</p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：比赛的最后一局，<a href="http://lol.duowan.com/nocturne/" target="_blank">魔腾</a>六级大招飞过来你完成了双杀。你有想到能拿到这次击杀吗？</strong></span></p>
+<p>　　Fly：在交手的时候，我发现有机会；所以我自然就试着反杀了。</p>
+<p>　　Ruler：我本以为那次我们会输的，但是还好Fly表现很棒。</p>
+<p>　<span style="color: rgb(0, 0, 255);">　<strong>问 ：第二局，<a href="http://lol.duowan.com/leona/" target="_blank">蕾欧娜</a>让你很狼狈。面对KT的新下路感觉如何？</strong></span></p>
+<p>　　Ruler：他们都打得很棒。不过我觉得我第二局很狼狈是因为我放松警惕了。</p>
+<p>　<span style="color: rgb(0, 0, 255);">　<strong>问：我们说说第三局吧，你们的劣势很大，然后对面去了大龙。不过，当战斗爆发以后，你们迅速击杀了<a href="http://lol.duowan.com/irelia/" target="_blank">刀妹</a>，然后开始了大翻盘。当时你们是什么感觉？</strong></span></p>
+<p>　　Ruler：对方打大龙的时候比我预想中慢很多。所以我们说我们可以打一下，肯定能打过的。</p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：今天的比赛里有很多让人印象深刻的瞬间。Fly，你觉得今天的MVP是谁呢？</strong></span></p>
+<p>　　Fly：我认为CuVee比我预想中表现要好。</p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：我听说了一个关于你们俩的趣闻——你们说和CuVee住一个星期都很难。为什么呢？</strong></span></p>
+<p>　　Ruler：<span style="color: rgb(255, 0, 0);"><strong>老实说，我想只要你和CuVee住一天就知道为什么会这么说了。</strong></span></p>
+<p>　<span style="color: rgb(0, 0, 255);">　<strong>问：是不是在公开直播的场合说出来不太合适？</strong></span></p>
+<p>　　Ruler：<span style="color: rgb(255, 0, 0);"><strong>是啊，太骚了。</strong></span></p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：你们决赛的对手会是格里芬或者Damwon。</strong></span></p>
+<p>　　Fly：两支队伍都很可怕。很高兴我们没在决赛前遇到他们。</p>
+<div class="ZQ-gap"></div>
+</div>

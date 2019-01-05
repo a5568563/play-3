@@ -1,0 +1,27 @@
+<div id="text">
+<div class="ZQ-gap"></div>
+<p>　　<span>在昨天的韩国KeSPA杯赛上，Damwon战队爆冷以2-1战胜了此前非常被看好的SKT T1战队。</span></p>
+<p>　　以下是赛后对于Damwon上单选手Nuguri的采访。</p>
+<p style="text-align: center;"><img alt="DWG上单：金教练的禁选策略非常专业" data-source="web" src="http://img2.dwstatic.com/lol/1812/409934492853/409934973444.jpeg"/></p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：你们击败了SKT战队，感觉怎么样？</strong></span></p>
+<p>　　Nuguri：难以置信！我现在都不敢确定我们已经赢了。我觉得我们拿到了想用的<a href="http://lol.duowan.com/hero/" target="_blank">英雄</a>。我们有信心“如果阵容很适合我们，我们甚至能够击败SKT。”</p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：你每局用的都是carry英雄。是计划好的吗？</strong></span></p>
+<p>　　Nuguri：我是根据情况选择这些英雄的。如果对面不先拿<a href="http://lol.duowan.com/urgot/" target="_blank">厄加特</a>的话，我可能会先选然后打得更加激进。</p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：你们第一局打得很艰难。</strong></span></p>
+<p>　　Nuguri：<span style="color: rgb(255, 0, 0);"><strong>我还没到场馆前就觉得自己会被疯狂gank。我就 是太容<a href="http://lol.duowan.com/yi/" target="_blank">易</a>被gank了。SKT好像完全知道我的弱点在哪。我想和队友说声抱歉。</strong></span></p>
+<p>　<span style="color: rgb(0, 0, 255);"><strong>　问：后两局的时候你是怎么想的呢？</strong></span></p>
+<p>　　Nuguri：我们的阵容太好了。所以我想，“我们别死就行了。”</p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：对方的重点就是拿到厄加特。你对此有什么看法？</strong></span></p>
+<p>　　Nuguri：我觉得SKT拿厄加特是因为他们想要gank压力。第一局里，因为<a href="http://lol.duowan.com/viktor/" target="_blank">维克托</a>很怕gank，我对此没有办法。所以我从第二局开始想选不容易被gank的英雄。</p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：打Khan感觉怎么样？</strong></span></p>
+<p>　　Nuguri：我第一局都快喘不过气来了。我知道他这个选手有优势就会滚起雪球。他甚至都不让我有喘息的余地。我用维克托的时候太难受了。</p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：队伍里谁是MVP？</strong></span></p>
+<p>　　Nuguri：<span style="color: rgb(255, 0, 0);"><strong>我认为金教练给我们选了很不错的阵容。队伍中的每个人都很好地做到了自己该做的事。</strong></span></p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：金教练的选人和其他人有什么不同呢？</strong></span></p>
+<p>　　Nuguri：<strong><span style="color: rgb(255, 0, 0);">非常的专业，因为他有禁选的数据。他还知道如何观察哪些英雄的阵容对于我们很有效。</span></strong></p>
+<p>　　<span style="color: rgb(0, 0, 255);"><strong>问：你们下一场和格里芬的<a href="http://news.duowan.com/" target="_blank">比赛</a>肯定很难打...</strong></span></p>
+<p>　　Nuguri：他们是一直非常棒的队伍。我已经感觉紧张了。像他们在今天比赛中展示出来的，格里芬是一支团战非常优秀的队伍；我们必须小心。另外，Sword配合队伍表现得非常好。我今天看他比赛的时候能感觉到。</p>
+<p>　<span style="color: rgb(0, 0, 255);"><strong>　问：还有什么想说的吗？</strong></span></p>
+<p>　　Nuguri：现在我们赢了SKT，我确实想把目标放在冠军上了；我非常期望能获得更多。我会尽力争取冠军的。</p>
+<div class="ZQ-gap"></div>
+</div>

@@ -1,0 +1,24 @@
+<div id="text">
+<div class="ZQ-gap"></div>
+<p>　　<span>在昨日的韩国KeSPA杯赛上，Griffin战队以2-0战胜了AFS战队进入下一轮。</span></p>
+<p>　　<a href="http://news.duowan.com/" target="_blank">比赛</a>之后，Girffin战队的选手Tarzan和Sword接受了采访。</p>
+<p style="text-align:center;"><img alt="GRF打野：岩雀削弱并不代表不能用了" src="http://img1.dwstatic.com/lol/1812/409879734461/409880153058.jpeg"/></p>
+<p>　　<span style="color:#0000FF;"><strong>问：获胜感觉如何？</strong></span></p>
+<p>　　<strong>Tarzan：</strong>好久没这样过了，但是我能表现很好我很满意，没有不在状态。</p>
+<p>　　<span style="color:#0000FF;"><strong>问：比赛之后你们的主教练和你们说什么了？</strong></span></p>
+<p>　　<strong>Sword：</strong>他本以为我打Kiin会比较难，所以他说我表现得非常好。</p>
+<p>　　<span style="color:#0000FF;"><strong>问：第一局你们差一点就输掉了，有想到能够阻止对面拆家吗？</strong></span></p>
+<p>　　<strong>Tarzan：</strong>我们当时很犹豫不知道能不能阻止他们。不过在我们清掉小兵之后，就确定安全了。</p>
+<p>　　<span style="color:#0000FF;"><strong>问：为什么你选了<a href="http://lol.duowan.com/taliyah/" target="_blank">岩雀</a>呢？</strong></span></p>
+<p>　　<strong>Tarzan：</strong><span style="color:#FF0000;"><strong>她确实被削弱了很多。不过我还是觉得如果你能用好的话她是一个不错的选择。</strong></span></p>
+<p>　　<span style="color:#0000FF;"><strong>问：所以是不是说明教练对你有信心？</strong></span></p>
+<p>　　<strong>Tarzan：</strong>好吧，<a href="http://lol.duowan.com/aatrox/" target="_blank">亚托克斯</a>和岩雀都是相当不错的选择，所以我想他会让我选这两个。</p>
+<p>　　<span style="color:#0000FF;"><strong>问：第一局里，<a href="http://lol.duowan.com/sion/" target="_blank">赛恩</a>死后又杀了两个人。</strong></span></p>
+<p>　　<strong>Tarzan：</strong>我本以为我们当时的局面很难，但是我看到Sword大拳头又挥死了两个（笑）。</p>
+<p>　　<span style="color:#0000FF;"><strong>问：队伍在大龙附近团灭了对方。那次团战你和队友说你有秒表了吗？</strong></span></p>
+<p>　　<strong>Sword：</strong>我死了很多次，所以他们和我说买个秒表对撑一会。</p>
+<p>　　<span style="color:#0000FF;"><strong>问：这次休赛期Griffin没有太大的变动，感觉怎么样？</strong></span></p>
+<p>　　<strong>Tarzan：</strong>我觉得我们在一起挺好的。研习班非常好，我觉得我们的配合有提升。</p>
+<p>　　<strong>Sword：</strong><span style="color:#FF0000;"><strong>如果从队伍的层面来说，我觉得和同样的队友在一起比较好。</strong></span>对我来说，还不错。</p>
+<div class="ZQ-gap"></div>
+</div>

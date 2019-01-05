@@ -1,0 +1,5 @@
+<div id="text">
+<div class="ZQ-gap"></div>
+<div style="text-align:center;"><embed align="middle" allowfullscreen="true" allowscriptaccess="always" height="425" quality="high" src="//player.mgtv.com/mgtv_v6_out/main.swf?video_id=4899282" type="application/x-shockwave-flash" width="580"/></div>
+<div class="ZQ-gap"></div>
+</div>

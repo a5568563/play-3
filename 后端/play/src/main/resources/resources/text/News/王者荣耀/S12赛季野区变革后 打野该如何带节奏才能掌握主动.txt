@@ -1,0 +1,132 @@
+<article>
+<h1>S12赛季野区变革后 打野该如何带节奏才能掌握主动</h1>
+<address>
+<span>2018-08-29 14:58:56</span><span>来源：MrPoker</span><span>作者：</span><a href="http://bbs.duowan.com/forum-2637-1.html" target="_blank">进入论坛</a>
+</address>
+<div id="text">
+<p>　　S12赛季，随着“野怪的血量增加”，“打野刀的变革”和“红蓝buff的经济收益降低”，导致整个野区的格局变化非常之大。</p>
+<p>　　其中改变最大的就是打野的节奏问题，毕竟现在的人头收益也缩水了，会让整个野区变得更加易守难攻，如果你还想像上个赛季那样，一直频繁入侵野区的话，真的会越打越被动。</p>
+<p>　　现在S12赛季已经过去一大半了，正好可以跟大家说现版本打野的节奏问题，让那些迟迟找不到打野节奏的玩家，可以更快的融入S12赛季的新环境中。</p>
+<p><strong>　　①只刷五只野怪也能快速的到达四级</strong></p>
+<p>　　由于现版本的野区进攻节奏变缓慢了一些，所以建议大家先在自家野区刷到四级之后，再去线上或者敌方野区找机会。</p>
+<p>　　关于如何刷野区，我就提醒大家一个细节点，就是只需要刷五只野怪（包括红蓝buff），不需要刷光上下野区的六只野怪，也能直接到达四级。</p>
+<p img-box="img-box" style="text-align: center;"><img alt="S12赛季野区变革后 打野该如何带节奏才能掌握主动" src="http://img5.dwstatic.com/5253wzry/1808/399480847462/399481136727.jpg"/></p>
+<p>　　​举个例子，如果你选择红开，刷完红buff之后，就直接去刷上面的小野猪，然后再跑到蓝buff野区刷完剩下的三只野怪，就能直接到达四级了，完全可以略过最下方的野怪小鸟。</p>
+<p>　　（刷完五只野怪之后，时间点差不多会在1分40秒左右，会比刷光六只野怪节省10秒的时间，这样一来，就能更快的去线上Gank抢节奏）</p>
+<p img-box="img-box" style="text-align: center;"><img alt="S12赛季野区变革后 打野该如何带节奏才能掌握主动" src="http://img3.dwstatic.com/5253wzry/1808/399480847462/399481136728.jpg"/></p>
+<p>　　​（如果你选择拿完红buff之后，去刷隔壁的小鸟，会多走一段路程，跑线效率也会比较低，比起对面只刷五只野怪的打野，确实会被动很多）</p>
+<p>　　另外，只刷五只野怪还有一点优势，就是让下路的发育更好一些，毕竟你留下了一只小鸟，下路的<a href="http://wzry.duowan.com/herovideo/" target="_blank">英雄</a>在清完兵线之后，就能直接去收掉这只小鸟，让自己更快的到达四级，打开线上优势。</p>
+<p>　　这样一来，也变相的提升了打野的Gnak效率，让作为打野的你可以选择优势路来滚雪球，打开突破口。</p>
+<p><strong>　　②前期Gank的几个细节要点</strong></p>
+<p>　　在刷完野区之后，大家首要面对的问题，就是选择Gank路线，这里给大家说几个细节要点，让各位避免像“无头苍蝇”那样，随意Gank，乱带节奏。</p>
+<p>　　如果你选择红开，刷到四级之后，可以去支援上路或者中路，建议去抓上路，毕竟上路不容易被反蹲，而且线也比较长，会更方便打野Gank。</p>
+<p><strong>　　不过要记住，去支援上路的时候，也要先发信号，说“我来抓人了”，不然上单可能会忙着清线，而不去帮你先手控人。</strong></p>
+<p><strong>　　别一个人先上，最好是让上单先去吸收一点伤害，毕竟你是打野，是主要的输出点，如果一开始就被敌人集火打成残血，之后就不好输出了。</strong></p>
+<p>　　（虽然这样说会有点自私，但真的要懂得让队友先手，才能提高成功率，记住，前期宁愿死上单也不要死打野，不然肯定会断节奏，失守野区）</p>
+<p>　　与此同时，大家在选择支援的时候，也要看看队友的情况，好比上路被压得很惨，你就别绕后了，直接从正面走去，帮上单清兵线和守塔就好。</p>
+<p img-box="img-box" style="text-align: center;"><img alt="S12赛季野区变革后 打野该如何带节奏才能掌握主动" src="http://img3.dwstatic.com/5253wzry/1808/399480847462/399481136729.jpg"/></p>
+<p>　　​（经常会看到一些打野，完全不看队友状态和兵线情况，永远都是绕后Gank直接冲，其实这样的做法挺不好的，毕竟队友是残血的，即便上了也可能直接送，抗不了几下，而且还会给敌人升级，很容易会送双杀，所以Gank之前，一定要先拖动小地图看看队友的情况）</p>
+<p>　　另外，大家也要留个心眼，每次发信号去Gank的时候，也要看看队友的配合程度，如果他很懂得“演戏”，每次都会帮你先手留人，那你就要多去帮几次，帮他打开局势，如果他傻傻的，看到你来了，还呆在塔下等你先上，那你就别去了，肯定吃力不讨好。</p>
+<p>　<strong>　③滚雪球的优先级：防御塔＞远古生物＞敌方野区＞自家野区</strong></p>
+<p>　　打野在每次Gank成功之后，都要适当的滚雪球，才能让自己的经济优势变得更大。</p>
+<p>　　如何滚雪球？</p>
+<p>　　我建议大家把防御塔的优先级提到最高，杀了人就要去推塔，不要搞东搞西的，毕竟防御塔不仅可以带来经验和经济，还能帮你打开敌方的野区视野，让作为打野的你，更好入侵抢野怪。</p>
+<p>　<strong>　因此，每次成功Gank之后，首要看的就是兵线情况，如果己方下一波兵线就快要到了，那就先别走，等兵线来了直接推塔。</strong></p>
+<p>　　如果下一波兵线还要很久，那就选择去开远古生物（小龙），增加团队经济。</p>
+<p>　　如果小龙也没了，那就选择去敌方野区碰碰运气，看看能不能抢到一两个野怪。</p>
+<p img-box="img-box" style="text-align: center;"><img alt="S12赛季野区变革后 打野该如何带节奏才能掌握主动" src="http://img2.dwstatic.com/5253wzry/1808/399480847462/399481136730.jpg"/></p>
+<p>　　​（反野不仅能让自己得到经济和经验，还能让敌人丢经验和经济，一增一减，就等同于拿到了两倍收益，起到滚雪球的效果）</p>
+<p>　　最后，才是选择回到自家的野区刷野发育。</p>
+<p>　<strong>　其实，刷自家的野区永远都是无奈之选，可以推塔就不要去拿龙，可以拿龙就不要反野，可以反野就不要刷自家野区，这样才能拉大经济差，提高胜率。</strong></p>
+<p>　　另外，还要注意一点，就是“成功Gank”不仅仅是指拿到人头，有时候把别人压回家也算是“成功Gank”，能做的事情也很多，不要因为拿不到人头，而放弃推塔和入侵。</p>
+<p>　<strong>　④中后期要懂得去吃线上资源来补发育</strong></p>
+<p>　　到达中期之后，很多打野都会出现“迷失节奏”的情况，打着打着就容易变成全场经济最低，异常的被动，其实这就是大家不懂得补发育而导致的。</p>
+<p>　　我认为在中期之后，已经不是一个人Gank就可以打开局势的时间点了，所以作为打野的你，不要总想着去Gank，此时，你应该叫队友集合在一起，去打小规模团战或者推塔，以抱团为主去抢节奏，而自己则应该去线上补补发育，提升一下装备，让自己在中后期的刺杀能力更加强。</p>
+<p><strong>　　千万不要不好意思吃线，其实在中后期，打野去吃坦克位的兵线是完全没有问题的，他们也很乐意让你来吃兵线。</strong></p>
+<p>　　毕竟坦克位对发育的要求并不大，而且他们推线比较慢，你来清兵线帮忙推塔，就等同于解放他们，让他们可以去游走支援，不用一直卡在线上被动清兵线守塔，这其实是一个互利互赢的局面。</p>
+<p>　<strong>　⑤逆风要懂得大胆入侵，互换资源</strong></p>
+<p>　　在逆风的时候，野区肯定会被轮空，此时作为打野的你，首要做的事情，不是去蹭队友的兵线，而是找机会入侵敌方野区，互换资源。</p>
+<p>　　毕竟敌人既然可以卡好时间点来反野，肯定是来不及吃自家的野区的，那你入侵互换资源的成功率就会变得很高，<strong>即便没野可刷，也可以去断一下兵线，减缓敌方的推塔速度。</strong></p>
+<p img-box="img-box" style="text-align: center;"><img alt="S12赛季野区变革后 打野该如何带节奏才能掌握主动" src="http://img.dwstatic.com/5253wzry/1808/399480847462/399481136731.jpg"/></p>
+<p>　　​（劣势局，千万不要被动守塔，打野作为节奏的带动者，更需要以身作则，多去找机会抢回节奏，这样才能为队友创造发育空间，为之后的翻盘做好铺垫）</p>
+<p><strong>　　总结</strong></p>
+<p>　　打野是一门“大学问”，光看攻略还远远不够，必须要多练多想多总结，才能慢慢的掌握多种打法，应对不同的局势，成为真正强大的节奏型打野。​​​​</p>
+<p> </p>
+</div>
+<!-- 分页{ -->
+<!-- }分页 -->
+<ul class="list-hot">
+<li>
+<label for="">编辑推荐</label>
+<a href="http://wzry.duowan.com/kpl/" style="color:#F00" target="_blank">KPL秋季赛专题</a><span>|</span>
+<a href="http://wzry.duowan.com/tag/355941383473.html" target="_blank">更新公告</a><span>|</span>
+<a href="http://wzry.duowan.com/1703/354023330696.html" target="_blank">游戏礼包</a><span>|</span>
+<a href="http://wzry.duowan.com/1705/357903591490.html" target="_blank">实名认证</a><span>|</span>
+<a href="http://wzry.duowan.com/1704/356528101116.html" target="_blank">上分攻略</a><span>|</span>
+<a href="http://wzry.duowan.com/tag/327319818946.html" target="_blank">体验服爆料</a><span>|</span>
+<a href="http://wzry.duowan.com/yljj/" target="_blank">娱乐视频</a><span>|</span>
+</li>
+<li>
+<label for="">热门英雄</label>
+<a href="http://wzry.duowan.com/nezhavideo/" style="color:#F00" target="_blank">哪吒</a><span>|</span>
+<a href="http://wzry.duowan.com/gongbenwuzangvideo/" target="_blank">宫本武藏</a><span>|</span>
+<a href="http://wzry.duowan.com/niumovideo/" target="_blank">牛魔</a> <span>|</span>
+<a href="http://wzry.duowan.com/caiwenjivideo/" target="_blank">蔡文姬</a><span>|</span>
+<a href="http://wzry.duowan.com/wuzetianvideo/" target="_blank">武则天</a><span>|</span>
+<a href="http://wzry.duowan.com/direnjievideo/" target="_blank">狄仁杰</a><span>|</span>
+<a href="http://wzry.duowan.com/sunbinvideo/" target="_blank">孙膑</a><span>|</span>
+<a href="http://wzry.duowan.com/zhuangzhouvideo/" target="_blank">庄周</a><span>|</span>
+<a href="http://wzry.duowan.com/libaivideo/" target="_blank">李白</a><span>|</span>
+<a href="http://wzry.duowan.com/liubeivideo/" target="_blank">刘备</a><span>|</span>
+</li>
+<li>
+<label for="">最新爆料</label>
+<a href="http://wzry.duowan.com/1709/368705686541.html" target="_blank">KPL限定皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618758706.html" target="_blank">内测服资格</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618675073.html" target="_blank">周瑜重做</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618615106.html" target="_blank">新地图上线</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368445365319.html" target="_blank">SNK英雄</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368474413113.html" style="color:#F00" target="_blank">新英雄苏烈</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100508000.html" target="_blank">亚瑟新皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100440531.html" target="_blank">诸葛亮新皮肤</a>
+</li>
+<li>
+<label for="">皮肤爆料</label>
+<a href="http://wzry.duowan.com/1709/368624003415.html" target="_blank">S9赛季皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100440531.html" target="_blank">诸葛亮黄金分割率</a><span>|</span>
+<a href="http://wzry.duowan.com/1705/358511681210.html" target="_blank">貂蝉蝴蝶梦</a>
+</li>
+</ul>
+<div class="wx-wrap">
+<p>（关注公众号dwwzry，每天统计最新可领取的礼包&amp;活动~目前已统计有97个礼包）</p>
+<p><img alt="《王者荣耀》花木兰 归来的长城守卫军" src="http://img.dwstatic.com/5253wzry/1704/355501235411/1491546044572.jpg"/></p>
+</div>
+<div class="art-bot clearfix">
+<div class="fltR">
+<!-- 百度分享{ -->
+<div class="bdsharebuttonbox mod-share bdshare-button-style1-16" data-bd-bind="1457419676133">
+<span>分享到：</span>
+<a class="bds_tsina" data-cmd="tsina" href="#" title="分享到新浪微博"></a>
+<a class="bds_weixin" data-cmd="weixin" href="#" title="分享到微信"></a>
+<a class="bds_qzone" data-cmd="qzone" href="#" title="分享到QQ空间"></a>
+<a class="bds_sqq" data-cmd="sqq" href="#" title="分享到QQ好友"></a>
+<a class="bds_more" data-cmd="more" href="#"></a>
+</div>
+<script>
+                                    window._bd_share_config = {
+                                        "common": {
+                                            "bdSnsKey": {},
+                                            "bdMini": "1",
+                                            "bdMiniList": ["tieba", "douban", "bdhome", "tqq"],
+                                            "bdStyle": "1",
+                                            "bdSize": "40"
+                                        },
+                                        "share": {}
+                                    };
+                                    with (document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];
+                                </script>
+<link href="http://assets.dwstatic.com/project/share/1.0.0/css/share.css?t=201511" rel="stylesheet"/>
+<!-- }百度分享 -->
+</div>
+</div>
+</article>

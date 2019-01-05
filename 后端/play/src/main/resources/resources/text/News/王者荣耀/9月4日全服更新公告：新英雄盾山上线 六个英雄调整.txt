@@ -1,0 +1,139 @@
+<article>
+<h1>9月4日全服更新公告：新英雄盾山上线 六个英雄调整</h1>
+<address>
+<span>2018-09-04 09:26:28</span><span>来源：官方</span><span>作者：</span><a href="http://bbs.duowan.com/forum-2637-1.html" target="_blank">进入论坛</a>
+</address>
+<div id="text">
+<p><strong>　　版本相关</strong></p>
+<p><strong>　　一、新<a href="http://wzry.duowan.com/herovideo/" target="_blank">英雄</a>盾山上线</strong></p>
+<p>　　东西南北任尔进攻，千磨万击巍然不动</p>
+<p>　　盾山，正如他的技能名字“一夫当关万夫莫开”。</p>
+<p>　　他是一个可靠的朋友，一个可以依靠的大朋友</p>
+<p>　　所以在设计上我们从多方面去塑造出这样一个坚实憨厚的形象</p>
+<p>　　基于这个设定，我们为盾山创造了独有的架盾机制</p>
+<p>　　他能够抵挡大量的子弹技能，为队友挤压出大量的站位空间</p>
+<p>　　同时，我们还赋予了他修复建筑物的能力</p>
+<p>　　这样可靠的队友，谁不爱呢？</p>
+<p>　　“放心输出 敌人我挡”</p>
+<p>　　被动技能—— 天地化盾</p>
+<p>　　盾山借助生成的石盾可完全抵挡掉大量的子弹技能，并且防御状态下将获得部分伤害减免效果；庞大的身躯使得盾山的普通攻击将造成附带自身最大生命加成的物理伤害</p>
+<p style="text-align: center;"><img alt="盾山被动.png" src="http://img2.dwstatic.com/5253wzry/1809/399978731835/399979588343.png" title="1535978303102264.png"/></p>
+<p>　　一技能—— 一夫当关</p>
+<p>　　盾山降低移速横盾于身前进入防御状态，触碰石盾的敌人会被击退并对其造成物理伤害</p>
+<p style="text-align: center;"><img alt="image.png" src="http://img.dwstatic.com/5253wzry/1809/399978731835/399979588344.png" title="1535972646916251.png"/></p>
+<p>　　二技能—— 万夫莫开</p>
+<p>　　盾山向前冲锋击退身前的野怪小兵并造成物理伤害，并且会扔回第一下撞到的敌方英雄，敌方英雄落地会对周围造成短暂的晕眩和物理伤害</p>
+<p style="text-align: center;"><img alt="盾山二技能.png" src="http://img5.dwstatic.com/5253wzry/1809/399978731835/399979588345.png" title="1535978324354433.png"/></p>
+<p>　　三技能—— 不动如山</p>
+<p>　　盾山张开巨盾砸向地面造成物理伤害和晕眩，期间不受控制，被砸晕单位会减缓移动速度，持续1秒，后续的能量流动持续推开面前的敌人，造成的伤害将衰减</p>
+<p style="text-align: center;"><img alt="image.png" src="http://img2.dwstatic.com/5253wzry/1809/399978731835/399979588346.png" title="1535972678125913.png"/></p>
+<p>　　四技能—— 困守成规</p>
+<p>　　盾山和塔合二为一，期间并为防御塔提供大量的物理及法术防御并每秒修复防御塔部分生命值，合体将会持续一定的时间</p>
+<p style="text-align: center;"><img alt="image.png" src="http://img4.dwstatic.com/5253wzry/1809/399978731835/399979588347.png" title="1535972691112990.png"/></p>
+<p><strong>　　二、英雄调整</strong></p>
+<p><strong>　　1. 裴擒虎</strong></p>
+<p>　　虽然经过了多次调整，但是裴擒虎的远程普攻输出依然非常强势，并且配合自身超高的机动性，可以安全的在远处进行输出，这一定程度挤压了射手的发挥空间，所以我们将略微下调裴擒虎的普攻伤害。</p>
+<p>　　基础攻击力：158(+14.7*英雄等级)→ 151(+14.1*英雄等级)</p>
+<p>　　被动：人型态气功波每层伤害：20(+4*英雄等级)→16(+4*英雄等级)</p>
+<p>　<strong>　2. <a href="http://wzry.duowan.com/jiangziyavideo/" target="_blank">姜子牙</a></strong></p>
+<p>　　在高端的快节奏对局中，拥有姜子牙的队伍在前期的优势有些过大了，很容易导致快速滚起雪球终结对手。我们希望仍然保留姜子牙帮助队友更快达到关键等级的功能，但通过适当削弱他自己在前期的战斗力来控制他在高端对局中的明显偏高的强度。</p>
+<p>　　1技能：CD：固定8秒→10/9.6/9.2/8.8/8.4/8秒</p>
+<p>　　2技能：CD：10/9.4/8.8/8.2/7.6/7秒→12/11/10/9/8/7秒</p>
+<p><strong>　　3. <a href="http://wzry.duowan.com/daqiaovideo/" target="_blank">大乔</a></strong></p>
+<p>　　作为团队的指挥官，大乔的空间调度能力已经远远超过我们的预期。即便在敌方高地上，一个配合良好的团队都能获得比敌方更好的回复能力；同时，由于CD的原因大乔在一场并不那么快速结束的团战中甚至能开出第二波大招，这对敌方的打击是毁灭性的。此次调整降低了一场战斗释放两个大招的可能，同时在一定程度上也提升了大乔团队对于空间移动的使用成本</p>
+<p>　　4技能：CD：70/55/40 秒→70/60/50秒</p>
+<p><strong>　　4. <a href="http://wzry.duowan.com/libaivideo/" target="_blank">李白</a></strong></p>
+<p>　　李白的清野速度越来越跟不上版本的需求了，当新生代打野英雄在战场上肆虐时，李白还在野区和等级做着斗争。此次调整我们希望提升李白在前期的清野速度，而为了避免伤害整体的提升，我们从李白的一套伤害中扣除了额外的部分，使得脆皮英雄在面对李白时不会被瞬间秒杀。</p>
+<p>　　被动：增加5%物理攻击 →增加30(+2*英雄等级)物理攻击</p>
+<p>　　1技能：伤害：120(+24/Lv)(+1.0Ad)→300(+50/Lv)(+1.1额外Ad)</p>
+<p>　　2技能：范围内伤害：110(+32/Lv)(+0.54Ad)→210(+36/Lv)(+0.75额外Ad)</p>
+<p>　　2技能：触碰剑圈伤害：180(+54/Lv)(+0.9Ad)→350(+60/Lv)(+1.25额外Ad)</p>
+<p>　　3技能：每段伤害：150(+65/Lv)(+0.68Ad)→250(+75/Lv)(+0.9额外Ad)</p>
+<p><strong>　　5. <a href="http://wzry.duowan.com/jingkevideo/" target="_blank">阿轲</a></strong></p>
+<p>　　我们注意到<a href="http://wzry.duowan.com/jingkevideo/" target="_blank">阿珂</a>在发育良好的情况下，单套技能的直接爆发伤害有些过高，这可能会导致她偏离收割型刺客的定位，所以我们将下调技能的直接伤害，并为她新增一个攻速加成的效果，来提升她持续作战以及清野能力。</p>
+<p>　　1技能：伤害：175(+25/Lv)(+0.65额外Ad)→150(+20/Lv)(+0.65额外Ad)</p>
+<p>　　2技能：伤害：350(+40/Lv)(+1.0额外Ad)→300(+40/Lv)(+1.0额外Ad)</p>
+<p>　　2技能：增加效果：命中敌人提升40%攻速</p>
+<p><strong>　　6. <a href="http://wzry.duowan.com/bailixuancevideo/" target="_blank">百里玄策</a></strong></p>
+<p>　　传统的刺客在打野位置上已经很久不是最优选择了，百里玄策作为收割型刺客的代表英雄，我们希望他能在全期拥有更稳定的输出。此次调整我们略微提升了百里玄策的被动伤害，希望他能再次回到大家的视野中来。</p>
+<p>　　被动：远端额外造成30%伤害→远端额外造成35%伤害</p>
+<p> </p>
+</div>
+<!-- 分页{ -->
+<div id="pageNum"><span id="pageNow"><a href="#" target="_self">1</a></span><span><a href="399978731835_2.html" target="_self">2</a></span><span><a href="399978731835_3.html" target="_self">3</a></span><span><a href="399978731835_2.html" target="_self">下一页</a></span></div>
+<!-- }分页 -->
+<ul class="list-hot">
+<li>
+<label for="">编辑推荐</label>
+<a href="http://wzry.duowan.com/kpl/" style="color:#F00" target="_blank">KPL秋季赛专题</a><span>|</span>
+<a href="http://wzry.duowan.com/tag/355941383473.html" target="_blank">更新公告</a><span>|</span>
+<a href="http://wzry.duowan.com/1703/354023330696.html" target="_blank">游戏礼包</a><span>|</span>
+<a href="http://wzry.duowan.com/1705/357903591490.html" target="_blank">实名认证</a><span>|</span>
+<a href="http://wzry.duowan.com/1704/356528101116.html" target="_blank">上分攻略</a><span>|</span>
+<a href="http://wzry.duowan.com/tag/327319818946.html" target="_blank">体验服爆料</a><span>|</span>
+<a href="http://wzry.duowan.com/yljj/" target="_blank">娱乐视频</a><span>|</span>
+</li>
+<li>
+<label for="">热门英雄</label>
+<a href="http://wzry.duowan.com/nezhavideo/" style="color:#F00" target="_blank">哪吒</a><span>|</span>
+<a href="http://wzry.duowan.com/gongbenwuzangvideo/" target="_blank">宫本武藏</a><span>|</span>
+<a href="http://wzry.duowan.com/niumovideo/" target="_blank">牛魔</a> <span>|</span>
+<a href="http://wzry.duowan.com/caiwenjivideo/" target="_blank">蔡文姬</a><span>|</span>
+<a href="http://wzry.duowan.com/wuzetianvideo/" target="_blank">武则天</a><span>|</span>
+<a href="http://wzry.duowan.com/direnjievideo/" target="_blank">狄仁杰</a><span>|</span>
+<a href="http://wzry.duowan.com/sunbinvideo/" target="_blank">孙膑</a><span>|</span>
+<a href="http://wzry.duowan.com/zhuangzhouvideo/" target="_blank">庄周</a><span>|</span>
+<a href="http://wzry.duowan.com/libaivideo/" target="_blank">李白</a><span>|</span>
+<a href="http://wzry.duowan.com/liubeivideo/" target="_blank">刘备</a><span>|</span>
+</li>
+<li>
+<label for="">最新爆料</label>
+<a href="http://wzry.duowan.com/1709/368705686541.html" target="_blank">KPL限定皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618758706.html" target="_blank">内测服资格</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618675073.html" target="_blank">周瑜重做</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618615106.html" target="_blank">新地图上线</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368445365319.html" target="_blank">SNK英雄</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368474413113.html" style="color:#F00" target="_blank">新英雄苏烈</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100508000.html" target="_blank">亚瑟新皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100440531.html" target="_blank">诸葛亮新皮肤</a>
+</li>
+<li>
+<label for="">皮肤爆料</label>
+<a href="http://wzry.duowan.com/1709/368624003415.html" target="_blank">S9赛季皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100440531.html" target="_blank">诸葛亮黄金分割率</a><span>|</span>
+<a href="http://wzry.duowan.com/1705/358511681210.html" target="_blank">貂蝉蝴蝶梦</a>
+</li>
+</ul>
+<div class="wx-wrap">
+<p>（关注公众号dwwzry，每天统计最新可领取的礼包&amp;活动~目前已统计有97个礼包）</p>
+<p><img alt="《王者荣耀》花木兰 归来的长城守卫军" src="http://img.dwstatic.com/5253wzry/1704/355501235411/1491546044572.jpg"/></p>
+</div>
+<div class="art-bot clearfix">
+<div class="fltR">
+<!-- 百度分享{ -->
+<div class="bdsharebuttonbox mod-share bdshare-button-style1-16" data-bd-bind="1457419676133">
+<span>分享到：</span>
+<a class="bds_tsina" data-cmd="tsina" href="#" title="分享到新浪微博"></a>
+<a class="bds_weixin" data-cmd="weixin" href="#" title="分享到微信"></a>
+<a class="bds_qzone" data-cmd="qzone" href="#" title="分享到QQ空间"></a>
+<a class="bds_sqq" data-cmd="sqq" href="#" title="分享到QQ好友"></a>
+<a class="bds_more" data-cmd="more" href="#"></a>
+</div>
+<script>
+                                    window._bd_share_config = {
+                                        "common": {
+                                            "bdSnsKey": {},
+                                            "bdMini": "1",
+                                            "bdMiniList": ["tieba", "douban", "bdhome", "tqq"],
+                                            "bdStyle": "1",
+                                            "bdSize": "40"
+                                        },
+                                        "share": {}
+                                    };
+                                    with (document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];
+                                </script>
+<link href="http://assets.dwstatic.com/project/share/1.0.0/css/share.css?t=201511" rel="stylesheet"/>
+<!-- }百度分享 -->
+</div>
+</div>
+</article>

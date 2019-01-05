@@ -1,0 +1,100 @@
+<article>
+<h1>体验服学识宝石调整解析 新版是所有辅助必备的神器</h1>
+<address>
+<span>2018-09-10 15:21:13</span><span>来源：某喵</span><span>作者：</span><a href="http://bbs.duowan.com/forum-2637-1.html" target="_blank">进入论坛</a>
+</address>
+<div id="text">
+<p>　　<a href="http://wzry.duowan.com/" target="_blank">王者荣耀</a><a href="http://wzry.duowan.com/tag/327319818946.html" target="_blank">体验服</a>中的学识宝石调整，新增了两个经济效果，增强了辅助的定位意义，不过会相对应的削弱辅助的前期经济成长。辅助在一般对局中都会刻意的减少吃到经济，更多的让队友发育。</p>
+<p style="text-align: center;"><img alt="体验服学识宝石调整解析 新版是所有辅助必备的神器" max-width="600" src="http://img3.dwstatic.com/5253wzry/1809/400519140190/400519273100.jpeg"/></p>
+<p>　　辅助宝石新增了红字固定效果，持有宝石时，周围有其余队友，小兵和野怪不会给予辅助经济，包括辅助补刀击杀的40%奖励，也会直接给予周围队友平分。被动效果新增当经济最低时，野怪和小兵死亡会给予辅助额外的奖励。按表格所示，当辅助和一个队友一起时，队友获得全额经济，辅助获得20%补偿经济，当辅助和两个队友一起时，两个队友各获得80%经济，辅助依旧是20%的补偿经济。</p>
+<p style="text-align: center;"><img alt="体验服学识宝石调整解析 新版是所有辅助必备的神器" max-width="600" src="http://img.dwstatic.com/5253wzry/1809/400519140190/400519273101.png"/></p>
+<p>　　从实战效果来对比，例如两分钟时候的小兵，我们除了会获得低保的三秒自动加五金币外，还能获得小兵经济的20%，也就是5金币。而射手可以获得完整的小兵金币外加补刀的40%，大约是近四十金币左右。辅助的补刀会提醒金币符号，但是奖励会自动分给周边的队友。</p>
+<p style="text-align: center;"><img alt="体验服学识宝石调整解析 新版是所有辅助必备的神器" max-width="600" src="http://img.dwstatic.com/5253wzry/1809/400519140190/400519273102.png"/></p>
+<p>　　但是当周边没有其余队友分享经济时，辅助能就享受单独的经济加成。如上图中靠近射手的小兵是在其收益范围内，辅助补刀只获得了9金币，而上方的另一个小兵在射手收益范围外回城，我们补刀后获得了64金币，这个奖励比<a href="http://wzry.duowan.com/tag/327320148779.html" target="_blank">正式服</a>的一只野怪还要多了，因为加成补刀和宝石的额外奖励，经济量相当1.4*1.2倍了。拥有这个效果，辅助在中后期就能在单清兵线时快速发育赶上队友。</p>
+<p style="text-align: center;"><img alt="体验服学识宝石调整解析 新版是所有辅助必备的神器" max-width="600" src="http://img5.dwstatic.com/5253wzry/1809/400519140190/400519273103.png"/></p>
+<p>　　所以辅助前期可以四处混线避免经济被拉开太大，也可以跟着打野辅助清野，野怪死亡的经济奖励同样是独立计算，不会影响打野发育。但是需要注意的就是大野怪不能补刀，野怪叠层需要打野自己击杀。因此这个调整会使辅助从全场人人嫌弃的<a href="http://wzry.duowan.com/herovideo/" target="_blank">英雄</a>变为受欢迎的英雄，在中路草丛蹲点并不会混到中路英雄的经济，避免因为埋伏而妨碍其他路英雄的发育。</p>
+<p style="text-align: center;"><img alt="体验服学识宝石调整解析 新版是所有辅助必备的神器" max-width="600" src="http://img2.dwstatic.com/5253wzry/1809/400519140190/400519273104.png"/></p>
+<p>　　宝石效果只对野怪和兵线有效，击杀的助攻以及主宰暴击、防御塔奖励这些照旧计算，因为是全队奖励效果。不过击杀人头还是尽量让给队友。</p>
+<p style="text-align: center;"><img alt="体验服学识宝石调整解析 新版是所有辅助必备的神器" max-width="600" src="http://img2.dwstatic.com/5253wzry/1809/400519140190/400519273105.png"/></p>
+<p>　　体验服中当前<a href="http://wzry.duowan.com/xiangyuvideo/" target="_blank">项羽</a>的被动触发后图标提醒修改，如上图的倒计时提醒图标，目前正式服中使用的是复活甲的图标，有部分玩家经常会搞混掉，一次性存在三个复活甲刷新提醒，不少小伙伴还以为是bug。</p>
+<p style="text-align: center;"><img alt="体验服学识宝石调整解析 新版是所有辅助必备的神器" max-width="600" src="http://img4.dwstatic.com/5253wzry/1809/400519140190/400519273106.gif"/></p>
+<p>　　最后是某喵对局中出现的奇葩击杀，我方<a href="http://wzry.duowan.com/diaochanvideo/" target="_blank">貂蝉</a>先被敌方貂蝉击杀，然后她的大招二段伤害又将红方貂蝉击杀，最后某喵使用的项羽同样被貂蝉大招二段和一技能技能返回命中击杀。不愧都是貂蝉，都喜欢扑街后补刀。</p>
+<p> </p>
+</div>
+<!-- 分页{ -->
+<!-- }分页 -->
+<ul class="list-hot">
+<li>
+<label for="">编辑推荐</label>
+<a href="http://wzry.duowan.com/kpl/" style="color:#F00" target="_blank">KPL秋季赛专题</a><span>|</span>
+<a href="http://wzry.duowan.com/tag/355941383473.html" target="_blank">更新公告</a><span>|</span>
+<a href="http://wzry.duowan.com/1703/354023330696.html" target="_blank">游戏礼包</a><span>|</span>
+<a href="http://wzry.duowan.com/1705/357903591490.html" target="_blank">实名认证</a><span>|</span>
+<a href="http://wzry.duowan.com/1704/356528101116.html" target="_blank">上分攻略</a><span>|</span>
+<a href="http://wzry.duowan.com/tag/327319818946.html" target="_blank">体验服爆料</a><span>|</span>
+<a href="http://wzry.duowan.com/yljj/" target="_blank">娱乐视频</a><span>|</span>
+</li>
+<li>
+<label for="">热门英雄</label>
+<a href="http://wzry.duowan.com/nezhavideo/" style="color:#F00" target="_blank">哪吒</a><span>|</span>
+<a href="http://wzry.duowan.com/gongbenwuzangvideo/" target="_blank">宫本武藏</a><span>|</span>
+<a href="http://wzry.duowan.com/niumovideo/" target="_blank">牛魔</a> <span>|</span>
+<a href="http://wzry.duowan.com/caiwenjivideo/" target="_blank">蔡文姬</a><span>|</span>
+<a href="http://wzry.duowan.com/wuzetianvideo/" target="_blank">武则天</a><span>|</span>
+<a href="http://wzry.duowan.com/direnjievideo/" target="_blank">狄仁杰</a><span>|</span>
+<a href="http://wzry.duowan.com/sunbinvideo/" target="_blank">孙膑</a><span>|</span>
+<a href="http://wzry.duowan.com/zhuangzhouvideo/" target="_blank">庄周</a><span>|</span>
+<a href="http://wzry.duowan.com/libaivideo/" target="_blank">李白</a><span>|</span>
+<a href="http://wzry.duowan.com/liubeivideo/" target="_blank">刘备</a><span>|</span>
+</li>
+<li>
+<label for="">最新爆料</label>
+<a href="http://wzry.duowan.com/1709/368705686541.html" target="_blank">KPL限定皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618758706.html" target="_blank">内测服资格</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618675073.html" target="_blank">周瑜重做</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618615106.html" target="_blank">新地图上线</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368445365319.html" target="_blank">SNK英雄</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368474413113.html" style="color:#F00" target="_blank">新英雄苏烈</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100508000.html" target="_blank">亚瑟新皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100440531.html" target="_blank">诸葛亮新皮肤</a>
+</li>
+<li>
+<label for="">皮肤爆料</label>
+<a href="http://wzry.duowan.com/1709/368624003415.html" target="_blank">S9赛季皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100440531.html" target="_blank">诸葛亮黄金分割率</a><span>|</span>
+<a href="http://wzry.duowan.com/1705/358511681210.html" target="_blank">貂蝉蝴蝶梦</a>
+</li>
+</ul>
+<div class="wx-wrap">
+<p>（关注公众号dwwzry，每天统计最新可领取的礼包&amp;活动~目前已统计有97个礼包）</p>
+<p><img alt="《王者荣耀》花木兰 归来的长城守卫军" src="http://img.dwstatic.com/5253wzry/1704/355501235411/1491546044572.jpg"/></p>
+</div>
+<div class="art-bot clearfix">
+<div class="fltR">
+<!-- 百度分享{ -->
+<div class="bdsharebuttonbox mod-share bdshare-button-style1-16" data-bd-bind="1457419676133">
+<span>分享到：</span>
+<a class="bds_tsina" data-cmd="tsina" href="#" title="分享到新浪微博"></a>
+<a class="bds_weixin" data-cmd="weixin" href="#" title="分享到微信"></a>
+<a class="bds_qzone" data-cmd="qzone" href="#" title="分享到QQ空间"></a>
+<a class="bds_sqq" data-cmd="sqq" href="#" title="分享到QQ好友"></a>
+<a class="bds_more" data-cmd="more" href="#"></a>
+</div>
+<script>
+                                    window._bd_share_config = {
+                                        "common": {
+                                            "bdSnsKey": {},
+                                            "bdMini": "1",
+                                            "bdMiniList": ["tieba", "douban", "bdhome", "tqq"],
+                                            "bdStyle": "1",
+                                            "bdSize": "40"
+                                        },
+                                        "share": {}
+                                    };
+                                    with (document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];
+                                </script>
+<link href="http://assets.dwstatic.com/project/share/1.0.0/css/share.css?t=201511" rel="stylesheet"/>
+<!-- }百度分享 -->
+</div>
+</div>
+</article>

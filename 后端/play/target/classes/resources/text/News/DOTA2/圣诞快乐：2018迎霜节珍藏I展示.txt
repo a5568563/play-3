@@ -1,0 +1,24 @@
+<div class="news_main">
+<div class="title">
+<h1>圣诞快乐：2018迎霜节珍藏I展示</h1>
+<h3>
+								2018-12-25                                <span class="zoom" id="zoom">
+                                    【字号：
+                                    <a data-size="16" href="javascript:;">大</a> 
+                                    <a data-size="14" href="javascript:;">中</a> 
+                                    <a data-size="12" href="javascript:;">小</a>
+                                    】
+                                </span>
+<!-- 来源：-->
+<span class="comments-count" id="comments-count">
+<i class="icon icon-comments"></i>
+<em>0</em>
+</span>
+</h3>
+</div>
+<div class="content">
+<div id="youkuAPI"><script src="https://player.youku.com/jsapi"></script></div><div class="youku_block" id="youku_player_XMzk4MDk2NjU3Mg" style="margin: 0px auto; width: 635px; height: 480px;"> </div><script>var playerXMzk4MDk2NjU3Mg = new YKU.Player('youku_player_XMzk4MDk2NjU3Mg',{ client_id: 'c69ba80d21db5947', vid: 'XMzk4MDk2NjU3Mg'});</script><p> </p><p> </p><p>圣诞节虽然为现实生活中西方的传统节日，但也深深的影响着刀塔世界。往往到这个时候，部分的英雄就会获得V社爸爸的青睐，专门为他们推出华美的迎霜节礼服。</p><p>这不，今年就已经有15位幸运儿收到了他们的迎霜节礼服。现在大家就随着视频一起来看下刀塔世界是如何迎接迎霜节的吧。当然，还没有节日礼服的英雄们也不用着急，细心的你一定能发现这只是“2018迎霜节珍藏I”。</p><p>最后，祝在座的各位“剩蛋”圣诞快乐。 </p> <div class="journalism-code" style="color:red;">
+<img alt="" src="/news20160808/images/journalism-codes.jpg"/>
+</div>
+</div>
+</div>

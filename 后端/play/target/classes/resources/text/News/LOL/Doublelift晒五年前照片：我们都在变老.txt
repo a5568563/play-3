@@ -1,0 +1,22 @@
+<div id="text">
+<div class="ZQ-gap"></div>
+<div class="tx-video__wrap" style="position:relative;width:750px;">
+<div class="tx-video__shade" style="position:absolute;top:0;left:0;right:0;bottom:0;background:#000;display:none;">
+<div style="position:absolute;left:50%;top:50%;width:650px;height:425px;margin:-212px 0 0 -325px;">
+<script src="https://da.duowan.com/loc/122">
+</script>
+</div>
+<div style="position:absolute;top:10px;right:15px;font-size:14px;white-space:nowrap;color:#fff;">广告时间：<em style="color:red">10</em>秒</div>
+</div>
+<p>　　今天大师兄Doublelift在推特上晒出一张五年前的自己还在CLG时期的照片。引起了很多人感叹“时间都去哪了？”</p>
+<p style="text-align: center;"><img alt="Doublelift晒五年前照片 老队友：我们都在变老" src="http://img3.dwstatic.com/lol/1812/409143150472/409143260702.png" title=""/></p>
+<p>　　Doublelift：5年过去了@Aphromoo（原CLG辅助）@Nien（原CLG上单）@dexter（原CLG<a href="http://video.duowan.com/lol/jiaoxue/daye.html" target="_blank">打野</a>）</p>
+<p style="text-align: center;"><img alt="Doublelift晒五年前照片 老队友：我们都在变老" src="http://img4.dwstatic.com/lol/1812/409143150472/409143260703.jpg" title=""/></p>
+<p>　　对此很多人在推特下方留言</p>
+<p>　　拳头工作人员：我一直记得那些年和那些人。那是个很特殊的时期。你们所达成的成就以及产生的影响都让我大开眼界。</p>
+<p>　　前队友dexter：兄弟，5年了，我们都变老了...</p>
+<p>　　网友：我想念DL和Aphro的组合，我很难过</p>
+<p>　　网友：这支CLG的五个人就是我最开始喜欢的队伍，很难想象，已经五年过去了....</p>
+</div>
+<div class="ZQ-gap"></div>
+</div>

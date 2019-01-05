@@ -1,0 +1,130 @@
+<article>
+<h1>9月7日体验服更新：新英雄伽罗上线 野区及装备调整</h1>
+<address>
+<span>2018-09-08 09:55:37</span><span>来源：官方</span><span>作者：</span><a href="http://bbs.duowan.com/forum-2637-1.html" target="_blank">进入论坛</a>
+</address>
+<div id="text">
+<p><strong>　　【更新内容】</strong></p>
+<p><strong>　　一、新<a href="http://wzry.duowan.com/herovideo/" target="_blank">英雄</a>伽罗上线</strong></p>
+<p>　　伽罗的设定源于一个经典的形象</p>
+<p>　　一位来自魔道家族的学者被迫拿起了弓箭，拯救自己的家园</p>
+<p>　　她将家族传承下来的净化之力注入到箭矢之中，以箭矢为引导释放自己的魔力</p>
+<p>　　她也能够召唤法阵平复战士的内心，集中他们的注意力造成更为致命的伤害</p>
+<p>　　她坚定的内心支撑着她在战场上稳定的表现，成为团队强大的火力点</p>
+<p>　　伽罗并不会拥有强大的身体素质，既不凶猛，也不敏捷</p>
+<p>　　伽罗的魔法能量也不像其他魔道家族的成员，例如<a href="http://wzry.duowan.com/daqiaovideo/" target="_blank">大乔</a>那样强大，足以改变战场的格局</p>
+<p>　　她的能力更多的还是来自她的意志，以及对故土的热爱</p>
+<p>　　所以我们在设计伽罗技能组的时候，更多地还是围绕着基本的射击、走位，偶尔射出一发关键的强力箭矢</p>
+<p>　　我们在伽罗的射击上，加入了一点点缓慢的拖尾效果，将焦点更多集中在精确扎实的基本功上</p>
+<p>　　同时作为唯一的范围伤害，我们也将伽罗的2技能初始CD提升至常规技能中较高的位置，减少技能CD转好等待释放带来的压力</p>
+<p>　　在表现上，结合着标志纯洁的莲花，我们也在伽罗的技能中加入了一定的高光表达能力的纯净</p>
+<p>　　希望伽罗能够给大家带来不错的体验感受</p>
+<p><strong>　　被动技能——破魔之箭</strong></p>
+<p>　　被动：伽罗的所有伤害将会优先对目标的护盾效果造成一次等额的伤害</p>
+<p style="text-align: center;"><img alt="image.png" src="http://img2.dwstatic.com/5253wzry/1809/400326606087/400326937918.png" title="1536231924531318.png"/></p>
+<p>　<strong>　一技能——渡灵之箭</strong></p>
+<p>　　伽罗展开长弓，降低攻击速度并提升射程；在此形态下，伽罗的每一次射击都会消耗法力值，并造成额外的法术伤害</p>
+<p style="text-align: center;"><img alt="image.png" src="http://img1.dwstatic.com/5253wzry/1809/400326606087/400326937919.png" title="1536231939100972.png"/></p>
+<p>　　再次释放会关闭长弓，恢复攻击速度并恢复射程，在此形态下，伽罗的每一次射击都会回复法力值</p>
+<p style="text-align: center;"><img alt="image.png" src="http://img1.dwstatic.com/5253wzry/1809/400326606087/400326937920.png" title="1536231953277619.png"/></p>
+<p><strong>　　二技能——静默之箭</strong></p>
+<p>　　伽罗以长弓为施法媒介，张开法阵，并在一定的延迟后向指定方向射出破魔之箭，对路径上的敌人造成法术伤害与沉默效果</p>
+<p style="text-align: center;"><img alt="image.png" src="http://img.dwstatic.com/5253wzry/1809/400326606087/400326937921.png" title="1536231970122527.png"/></p>
+<p><strong>　　三技能——纯净之域</strong></p>
+<p>　　伽罗在身边张开法阵持续8秒并可手动关闭，提升范围内友军暴击率；法阵在张开和关闭的瞬间会对范围内敌军造成法术伤害，关闭时会对尚在法阵中的友军产生一个持续3秒的暴击率与移速增加效果</p>
+<p>　　被动：伽罗的暴击会对目标造成减速效果</p>
+<p style="text-align: center;"><img alt="image.png" src="http://img2.dwstatic.com/5253wzry/1809/400326606087/400326937922.png" title="1536231984129401.png"/></p>
+<p><strong>　　二、英雄调整</strong></p>
+<p>　<strong>　1.<a href="http://wzry.duowan.com/lanlingwangvideo/" target="_blank">兰陵王</a></strong></p>
+<p>　　2技能：耗蓝：80 → 60</p>
+<p>　　3技能：第一段：独立作为4技能，开局即可使用，不可升级，不耗蓝，CD固定24秒</p>
+<p>　　3技能：第二段：独立作为新的3技能，CD30/27/24秒</p>
+<p><strong>　　2.铠</strong></p>
+<p>　　基础生命：3375(+237.5*英雄等级) → 3387(+283.6*英雄等级)</p>
+<p><strong>　　3.<a href="http://wzry.duowan.com/xiahoudunvideo/" target="_blank">夏侯惇</a></strong></p>
+<p>　　3技能：增加效果：拉向链刃过程增加免受控制效果</p>
+<p>　<strong>　4.<a href="http://wzry.duowan.com/zhuangzhouvideo/" target="_blank">庄周</a></strong></p>
+<p>　　1技能：增加效果：释放时移除自身控制效果</p>
+<p><strong>　　5.<a href="http://wzry.duowan.com/yasevideo/" target="_blank">亚瑟</a></strong></p>
+<p>　　被动：每2秒回复1%最大生命值 → 额外获得110(+5*英雄等级)点物理护甲</p>
+<p>　　1技能：跳斩造成目标沉默1秒 →跳斩造成目标减速90%持续1秒</p>
+<p> </p>
+</div>
+<!-- 分页{ -->
+<div id="pageNum"><span id="pageNow"><a href="#" target="_self">1</a></span><span><a href="400326606087_2.html" target="_self">2</a></span><span><a href="400326606087_3.html" target="_self">3</a></span><span><a href="400326606087_4.html" target="_self">4</a></span><span><a href="400326606087_5.html" target="_self">5</a></span><span><a href="400326606087_2.html" target="_self">下一页</a></span></div>
+<!-- }分页 -->
+<ul class="list-hot">
+<li>
+<label for="">编辑推荐</label>
+<a href="http://wzry.duowan.com/kpl/" style="color:#F00" target="_blank">KPL秋季赛专题</a><span>|</span>
+<a href="http://wzry.duowan.com/tag/355941383473.html" target="_blank">更新公告</a><span>|</span>
+<a href="http://wzry.duowan.com/1703/354023330696.html" target="_blank">游戏礼包</a><span>|</span>
+<a href="http://wzry.duowan.com/1705/357903591490.html" target="_blank">实名认证</a><span>|</span>
+<a href="http://wzry.duowan.com/1704/356528101116.html" target="_blank">上分攻略</a><span>|</span>
+<a href="http://wzry.duowan.com/tag/327319818946.html" target="_blank">体验服爆料</a><span>|</span>
+<a href="http://wzry.duowan.com/yljj/" target="_blank">娱乐视频</a><span>|</span>
+</li>
+<li>
+<label for="">热门英雄</label>
+<a href="http://wzry.duowan.com/nezhavideo/" style="color:#F00" target="_blank">哪吒</a><span>|</span>
+<a href="http://wzry.duowan.com/gongbenwuzangvideo/" target="_blank">宫本武藏</a><span>|</span>
+<a href="http://wzry.duowan.com/niumovideo/" target="_blank">牛魔</a> <span>|</span>
+<a href="http://wzry.duowan.com/caiwenjivideo/" target="_blank">蔡文姬</a><span>|</span>
+<a href="http://wzry.duowan.com/wuzetianvideo/" target="_blank">武则天</a><span>|</span>
+<a href="http://wzry.duowan.com/direnjievideo/" target="_blank">狄仁杰</a><span>|</span>
+<a href="http://wzry.duowan.com/sunbinvideo/" target="_blank">孙膑</a><span>|</span>
+<a href="http://wzry.duowan.com/zhuangzhouvideo/" target="_blank">庄周</a><span>|</span>
+<a href="http://wzry.duowan.com/libaivideo/" target="_blank">李白</a><span>|</span>
+<a href="http://wzry.duowan.com/liubeivideo/" target="_blank">刘备</a><span>|</span>
+</li>
+<li>
+<label for="">最新爆料</label>
+<a href="http://wzry.duowan.com/1709/368705686541.html" target="_blank">KPL限定皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618758706.html" target="_blank">内测服资格</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618675073.html" target="_blank">周瑜重做</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618615106.html" target="_blank">新地图上线</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368445365319.html" target="_blank">SNK英雄</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368474413113.html" style="color:#F00" target="_blank">新英雄苏烈</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100508000.html" target="_blank">亚瑟新皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100440531.html" target="_blank">诸葛亮新皮肤</a>
+</li>
+<li>
+<label for="">皮肤爆料</label>
+<a href="http://wzry.duowan.com/1709/368624003415.html" target="_blank">S9赛季皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100440531.html" target="_blank">诸葛亮黄金分割率</a><span>|</span>
+<a href="http://wzry.duowan.com/1705/358511681210.html" target="_blank">貂蝉蝴蝶梦</a>
+</li>
+</ul>
+<div class="wx-wrap">
+<p>（关注公众号dwwzry，每天统计最新可领取的礼包&amp;活动~目前已统计有97个礼包）</p>
+<p><img alt="《王者荣耀》花木兰 归来的长城守卫军" src="http://img.dwstatic.com/5253wzry/1704/355501235411/1491546044572.jpg"/></p>
+</div>
+<div class="art-bot clearfix">
+<div class="fltR">
+<!-- 百度分享{ -->
+<div class="bdsharebuttonbox mod-share bdshare-button-style1-16" data-bd-bind="1457419676133">
+<span>分享到：</span>
+<a class="bds_tsina" data-cmd="tsina" href="#" title="分享到新浪微博"></a>
+<a class="bds_weixin" data-cmd="weixin" href="#" title="分享到微信"></a>
+<a class="bds_qzone" data-cmd="qzone" href="#" title="分享到QQ空间"></a>
+<a class="bds_sqq" data-cmd="sqq" href="#" title="分享到QQ好友"></a>
+<a class="bds_more" data-cmd="more" href="#"></a>
+</div>
+<script>
+                                    window._bd_share_config = {
+                                        "common": {
+                                            "bdSnsKey": {},
+                                            "bdMini": "1",
+                                            "bdMiniList": ["tieba", "douban", "bdhome", "tqq"],
+                                            "bdStyle": "1",
+                                            "bdSize": "40"
+                                        },
+                                        "share": {}
+                                    };
+                                    with (document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];
+                                </script>
+<link href="http://assets.dwstatic.com/project/share/1.0.0/css/share.css?t=201511" rel="stylesheet"/>
+<!-- }百度分享 -->
+</div>
+</div>
+</article>

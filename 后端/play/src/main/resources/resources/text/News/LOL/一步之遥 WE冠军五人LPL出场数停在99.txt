@@ -1,0 +1,15 @@
+<div id="text">
+<div class="ZQ-gap"></div>
+<p>　　随着转会期新阵容的敲定，Condi和Ben离队，曾经拿下WE队史首个<a href="http://lol.duowan.com/LPL/" target="_blank">LPL</a>冠军的五人组：957，Condi，xiye，Mystic和Ben正式解散。而他们五人组在LPL的总出场数也停止在了99场，差1场就可以达成五人共同出场百场的成就。</p>
+<p style="text-align: center;"><img alt="一步之遥 WE冠军五人组的LPL总出场数停止在99场" src="http://img2.dwstatic.com/lol/1812/409849363596/409849556174.jpg"/></p>
+<p>　　目前LPL历史上出场最多的五人组也是来自WE战队，957，Condi，xiye，Mystic和Zero，这五人共出场114次。胜场最多的则是EDG的<a href="http://lol.duowan.com/MSI/" target="_blank">MSI</a>冠军五人组Koro1，Clearlove，PawN，Deft和Meiko，共拿下80胜。</p>
+<p style="text-align: center;"><img alt="一步之遥 WE冠军五人组的LPL总出场数停止在99场" src="http://img3.dwstatic.com/lol/1812/409849363596/409849556175.jpg"/></p>
+<p>　　转会期内许多队伍出现人员变动，原本有机会追上WE五人组纪录的组合比如JDG，RW等都已经换人。目前最有机会的是RNG（Letme，Mlxg，Xiaohu，Uzi，Ming，共出场74次），只是Letme和Mlxg都要暂离赛场，估计要追上他们还有一段时间。</p>
+<p>　　LPL五人组出场数前5名：</p>
+<p>　　WE：957，Condi，xiye，Mystic，Zero 114场</p>
+<p>　　WE：957，Condi，xiye，Mystic，Ben 99场</p>
+<p>　　EDG：Koro1，Clearlove，PawN，Deft，Meiko 98场</p>
+<p>　　RW：Mouse，Flawless，Doinb，Smlz，Killua 96场</p>
+<p>　　JDG：Zoom，Clid，YaGao，LokeN，LvMao 92场</p>
+<div class="ZQ-gap"></div>
+</div>

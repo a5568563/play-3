@@ -1,0 +1,13 @@
+<div id="text">
+<div class="ZQ-gap"></div>
+<p>　　昨天，LMS赛区的J Team战队发布了新的队伍人员变动，原文如下：</p>
+<p>　　J Team <a href="http://lol.duowan.com/" target="_blank">英雄联盟</a>团队阵容调整</p>
+<p>　　春季LMS<a href="http://news.duowan.com/" target="_blank">赛事</a>即将开打；J Team在此要向大家宣布：</p>
+<p>　　即日起J Team总教练一职将由陈冠廷(REFRA1N)接任；以及林志强(Koala)选手正式加入J Team战队。</p>
+<p>　　陈冠廷(REFRA1N)曾在2015-2017年在J Team担任Jungler的位置；2017年加入闪电狼团队担任教练；如今重回J Team大家庭执教。</p>
+<p>　　林志强(Koala)曾于G-Rex担任辅助的位置；以擅长使用各种不同角色而闻名。</p>
+<p>　　欢迎二位加入J Team<a href="http://lol.duowan.com/hero/" target="_blank">英雄</a>联盟的团队。</p>
+<p style="text-align: center;"><img alt="JT战队官宣：教练以及选手人员的变动" src="http://img5.dwstatic.com/lol/1812/410002846333/1546047897735.png"/></p>
+<p style="text-align: center;"><img alt="JT战队官宣：教练以及选手人员的变动" src="http://img2.dwstatic.com/lol/1812/410002846333/410003162823.jpg"/></p>
+<div class="ZQ-gap"></div>
+</div>

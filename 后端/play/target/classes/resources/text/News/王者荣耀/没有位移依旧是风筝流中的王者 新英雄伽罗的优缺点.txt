@@ -1,0 +1,107 @@
+<article>
+<h1>没有位移依旧是风筝流中的王者 新英雄伽罗的优缺点</h1>
+<address>
+<span>2018-09-11 10:13:07</span><span>来源：清影游戏</span><span>作者：</span><a href="http://bbs.duowan.com/forum-2637-1.html" target="_blank">进入论坛</a>
+</address>
+<div id="text">
+<p>　　最近<a href="http://wzry.duowan.com/tag/327319818946.html" target="_blank">体验服</a>中又上线了一个新<a href="http://wzry.duowan.com/herovideo/" target="_blank">英雄</a>，并且是很久没有出现过的射手英雄伽罗。就目前的情况来看，大多数玩家都觉得这是一个防御塔都拦不住（攻击范围比防御塔还大）的女人，不过也并不是没有任何缺陷的存在。今天，小编就和大家一起去看看这个英雄的优点和缺点。</p>
+<p style="text-align: center;"><img alt="没有位移依旧是风筝流中的王者 新英雄伽罗的优缺点" max-width="600" src="http://img2.dwstatic.com/5253wzry/1809/400586889118/400587187198.jpeg"/></p>
+<p>　　在开始分析伽罗的优缺点之前，我们还是一起来看看这个英雄的技能情况。毕竟，作为一个还在体验服当中的英雄，无论是优点还是缺点，最简单直接的了解办法就是从技能情况入手。</p>
+<p style="text-align: center;"><img alt="没有位移依旧是风筝流中的王者 新英雄伽罗的优缺点" max-width="600" src="http://img5.dwstatic.com/5253wzry/1809/400586889118/400587187199.jpeg"/></p>
+<p>　<strong>　被动技能破魔之箭：</strong>伽罗的所有伤害将会优先对目标的护盾效果造成一次等额的伤害！</p>
+<p style="text-align: center;"><img alt="没有位移依旧是风筝流中的王者 新英雄伽罗的优缺点" max-width="600" src="http://img5.dwstatic.com/5253wzry/1809/400586889118/400587187200.jpg"/></p>
+<p>　<strong>　1技能渡灵之箭：</strong>伽罗展开长弓，降低攻击速度并提升射程，在此形态下，伽罗的每一次射击都会消耗法力值，并额外造成法术伤害；再次释放会关闭长弓，恢复攻击速度并恢复射程，在此形态下，伽罗的每一次射击都会回复法力值。</p>
+<p style="text-align: center;"><img alt="没有位移依旧是风筝流中的王者 新英雄伽罗的优缺点" max-width="600" src="http://img3.dwstatic.com/5253wzry/1809/400586889118/400587187201.jpg"/></p>
+<p>　<strong>　2技能静默之箭：</strong>伽罗以长弓为施法媒介，张开法阵，并在一定的延迟后向指定方向射出破魔之箭，对路径上的敌人造成法术伤害与沉默效果；箭矢穿过区域在一定延迟后会爆炸对范围内敌人造成法术伤害。</p>
+<p style="text-align: center;"><img alt="没有位移依旧是风筝流中的王者 新英雄伽罗的优缺点" max-width="600" src="http://img5.dwstatic.com/5253wzry/1809/400586889118/400587187202.jpg"/></p>
+<p>　<strong>　3技能纯净之域：</strong>伽罗在身边张开可持续一段时间的法阵并可手动关闭，法阵会提升范围内友军暴击率；法阵在张开和关闭的瞬间会对范围内敌军造成法术伤害，关闭时会对尚在法阵中的友军产生一个持续一小段时间的暴击率与移速增加效果； 被动：伽罗的暴击会对目标造成减速效果。</p>
+<p><strong>　　优点：</strong></p>
+<p>　　1、被动技能的存在，让所有攻击都不是真实伤害的伽罗，攻击带有护盾的英雄比真实伤害英雄更加可怕一些，因为她的攻击会让被攻击对象的护盾减少的同时减少等量的血量。尤其是团战中的作用，在攻击敌方<a href="http://wzry.duowan.com/zhangfeivideo/" target="_blank">张飞</a>等拥有护盾的前排英雄的时候，自己能够打出伤害的同时，帮助队友削减其护盾。</p>
+<p>　　2、超远的射程，在团战中能够找到更好的输出位置的同时，还能够直接进行塔外点塔，这是过去仅有少数英雄能够做到的。并且，由于她的射程远是进行普攻的原因，实际效果会比<a href="http://wzry.duowan.com/yujivideo/" target="_blank">虞姬</a>、守约更好一些。</p>
+<p>　　3、直线范围沉默技能的存在，让这个英雄无论是在主动出击，还是支援队友的时候，都拥有更加强大的能力。毕竟，作为王者峡谷中最稀有的技能，沉默技能所带来的效果一直都非常可怕。</p>
+<p>　　4、大招可以带来更加的瞬间爆发，不开启的情况下，还能赋予伽罗暴击减速的能力，算是一个自带红buff效果的女人。</p>
+<p><strong>　　缺点：</strong></p>
+<p>　　1、被动在面对没有护盾的英雄的时候算是失去了一个关键的被动技能；</p>
+<p>　　2、提升射程的代价是降低了攻速，作为一个主要依靠普攻输出的射手，降低攻速会在很大程度上影响其输出能力；</p>
+<p>　　3、对红蓝buff的依赖性较高，作为一个射手需要红buff并没有什么不对的地方，可对蓝buff还依赖，就让队伍显得有限尴尬了；</p>
+<p>　　4、沉默技能基本职能在抓人和团战中使用，对线期作用并不大，毕竟前摇还是太长；</p>
+<p>　　5、大招基本职能用作辅助效果和被动减速，毕竟增加的爆发能力并不足以让脆皮的自己在被刺客、战士近身的情况下秒掉对方。</p>
+<p> </p>
+</div>
+<!-- 分页{ -->
+<!-- }分页 -->
+<ul class="list-hot">
+<li>
+<label for="">编辑推荐</label>
+<a href="http://wzry.duowan.com/kpl/" style="color:#F00" target="_blank">KPL秋季赛专题</a><span>|</span>
+<a href="http://wzry.duowan.com/tag/355941383473.html" target="_blank">更新公告</a><span>|</span>
+<a href="http://wzry.duowan.com/1703/354023330696.html" target="_blank">游戏礼包</a><span>|</span>
+<a href="http://wzry.duowan.com/1705/357903591490.html" target="_blank">实名认证</a><span>|</span>
+<a href="http://wzry.duowan.com/1704/356528101116.html" target="_blank">上分攻略</a><span>|</span>
+<a href="http://wzry.duowan.com/tag/327319818946.html" target="_blank">体验服爆料</a><span>|</span>
+<a href="http://wzry.duowan.com/yljj/" target="_blank">娱乐视频</a><span>|</span>
+</li>
+<li>
+<label for="">热门英雄</label>
+<a href="http://wzry.duowan.com/nezhavideo/" style="color:#F00" target="_blank">哪吒</a><span>|</span>
+<a href="http://wzry.duowan.com/gongbenwuzangvideo/" target="_blank">宫本武藏</a><span>|</span>
+<a href="http://wzry.duowan.com/niumovideo/" target="_blank">牛魔</a> <span>|</span>
+<a href="http://wzry.duowan.com/caiwenjivideo/" target="_blank">蔡文姬</a><span>|</span>
+<a href="http://wzry.duowan.com/wuzetianvideo/" target="_blank">武则天</a><span>|</span>
+<a href="http://wzry.duowan.com/direnjievideo/" target="_blank">狄仁杰</a><span>|</span>
+<a href="http://wzry.duowan.com/sunbinvideo/" target="_blank">孙膑</a><span>|</span>
+<a href="http://wzry.duowan.com/zhuangzhouvideo/" target="_blank">庄周</a><span>|</span>
+<a href="http://wzry.duowan.com/libaivideo/" target="_blank">李白</a><span>|</span>
+<a href="http://wzry.duowan.com/liubeivideo/" target="_blank">刘备</a><span>|</span>
+</li>
+<li>
+<label for="">最新爆料</label>
+<a href="http://wzry.duowan.com/1709/368705686541.html" target="_blank">KPL限定皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618758706.html" target="_blank">内测服资格</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618675073.html" target="_blank">周瑜重做</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618615106.html" target="_blank">新地图上线</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368445365319.html" target="_blank">SNK英雄</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368474413113.html" style="color:#F00" target="_blank">新英雄苏烈</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100508000.html" target="_blank">亚瑟新皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100440531.html" target="_blank">诸葛亮新皮肤</a>
+</li>
+<li>
+<label for="">皮肤爆料</label>
+<a href="http://wzry.duowan.com/1709/368624003415.html" target="_blank">S9赛季皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100440531.html" target="_blank">诸葛亮黄金分割率</a><span>|</span>
+<a href="http://wzry.duowan.com/1705/358511681210.html" target="_blank">貂蝉蝴蝶梦</a>
+</li>
+</ul>
+<div class="wx-wrap">
+<p>（关注公众号dwwzry，每天统计最新可领取的礼包&amp;活动~目前已统计有97个礼包）</p>
+<p><img alt="《王者荣耀》花木兰 归来的长城守卫军" src="http://img.dwstatic.com/5253wzry/1704/355501235411/1491546044572.jpg"/></p>
+</div>
+<div class="art-bot clearfix">
+<div class="fltR">
+<!-- 百度分享{ -->
+<div class="bdsharebuttonbox mod-share bdshare-button-style1-16" data-bd-bind="1457419676133">
+<span>分享到：</span>
+<a class="bds_tsina" data-cmd="tsina" href="#" title="分享到新浪微博"></a>
+<a class="bds_weixin" data-cmd="weixin" href="#" title="分享到微信"></a>
+<a class="bds_qzone" data-cmd="qzone" href="#" title="分享到QQ空间"></a>
+<a class="bds_sqq" data-cmd="sqq" href="#" title="分享到QQ好友"></a>
+<a class="bds_more" data-cmd="more" href="#"></a>
+</div>
+<script>
+                                    window._bd_share_config = {
+                                        "common": {
+                                            "bdSnsKey": {},
+                                            "bdMini": "1",
+                                            "bdMiniList": ["tieba", "douban", "bdhome", "tqq"],
+                                            "bdStyle": "1",
+                                            "bdSize": "40"
+                                        },
+                                        "share": {}
+                                    };
+                                    with (document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];
+                                </script>
+<link href="http://assets.dwstatic.com/project/share/1.0.0/css/share.css?t=201511" rel="stylesheet"/>
+<!-- }百度分享 -->
+</div>
+</div>
+</article>

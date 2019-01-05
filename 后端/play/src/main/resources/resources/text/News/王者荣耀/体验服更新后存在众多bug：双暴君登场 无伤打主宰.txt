@@ -1,0 +1,100 @@
+<article>
+<h1>体验服更新后存在众多bug：双暴君登场 无伤打主宰</h1>
+<address>
+<span>2018-09-08 10:22:02</span><span>来源：某喵</span><span>作者：</span><a href="http://bbs.duowan.com/forum-2637-1.html" target="_blank">进入论坛</a>
+</address>
+<div id="text">
+<p>　　<a href="http://wzry.duowan.com/" target="_blank">王者荣耀</a><a href="http://wzry.duowan.com/tag/327319818946.html" target="_blank">体验服</a>今日更新，更新的内容会在下个赛季后同步<a href="http://wzry.duowan.com/tag/327320148779.html" target="_blank">正式服</a>，目前更新后比较多的bug问题，本篇就来说下出现的几个奇葩效果。</p>
+<p style="text-align: center;"><img alt="体验服更新后存在众多bug：双暴君登场 无伤打主宰" max-width="600" src="http://img3.dwstatic.com/5253wzry/1809/400326938172/400328522705.png"/></p>
+<p>　　首先是新增的日常活跃度任务，在小<a href="http://wzry.duowan.com/dajivideo/" target="_blank">妲己</a>那可以进入新的夫子答题活动，每日可以答题十题，可以随时暂停退出查找答案。不过目前存在答题结束后没有给予奖励的问题，一般情况累计答题正确会累计钻石、经验和活跃度奖励。</p>
+<p style="text-align: center;"><img alt="体验服更新后存在众多bug：双暴君登场 无伤打主宰" max-width="600" src="http://img4.dwstatic.com/5253wzry/1809/400326938172/400328522706.png"/></p>
+<p>　　另外题目中也有很多描述又歧义的问题，例如这题中的<a href="http://wzry.duowan.com/chengjisihanvideo/" target="_blank">成吉思汗</a>一技能本身没有任何伤害，这题问的其实应该改为一技能释放没有任何伤害才对，使用题目的描述会让玩家误认被动伤害算入技能本身当中。</p>
+<p style="text-align: center;"><img alt="体验服更新后存在众多bug：双暴君登场 无伤打主宰" max-width="600" src="http://img.dwstatic.com/5253wzry/1809/400326938172/400328522707.png"/></p>
+<p>　　新<a href="http://wzry.duowan.com/herovideo/" target="_blank">英雄</a>伽罗的bug，目前也有几个技能效果问题，不过整体影响不大，首先是大招释放在收回的瞬间会出现双倍叠加暴击的问题，如果是攻速快的英雄，可能可以在这期间打出两次普攻，60%的暴击率加成还是比较大的。</p>
+<p style="text-align: center;"><img alt="体验服更新后存在众多bug：双暴君登场 无伤打主宰" max-width="600" src="http://img1.dwstatic.com/5253wzry/1809/400326938172/400328522708.png"/></p>
+<p>　　<a href="http://wzry.duowan.com/lanlingwangvideo/" target="_blank">兰陵王</a>将大招隐身效果移至四技能，一级时就直接自带，可以释放隐身半分钟，但是冷却时间短一些，可获得冷却缩减加成，破隐有攻速加成。不过在冷却刷新完后，如果是已经在敌方周围开始叠破隐层数时再次开隐身，可能会出现层数不刷新的问题，触发概率比较小。</p>
+<p style="text-align: center;"><img alt="体验服更新后存在众多bug：双暴君登场 无伤打主宰" max-width="600" src="http://img3.dwstatic.com/5253wzry/1809/400326938172/400328522709.png"/></p>
+<p>　　更新后野怪的主宰出现问题，目前测试发现在主宰的龙坑外远距离攻击主宰，主宰超出攻击范围不会反手回击，同时仇恨也不会丢失进行回血。也就是部分远程英雄可以一直在远距离打主宰，例如鲁班扫射和法师的远距离伤害，直接无伤击杀主宰。目前实战测试这个bug也是有效的。</p>
+<p style="text-align: center;"><img alt="体验服更新后存在众多bug：双暴君登场 无伤打主宰" max-width="600" src="http://img5.dwstatic.com/5253wzry/1809/400326938172/400328522710.png"/></p>
+<p>　　暴君的刷新问题，之前也有出现过的刷新两只暴君问题，在暴君坑里一次刷出两只暴君。当前实战还未发现这个bug是否会触发，不过训练营中是百分百可触发的。</p>
+<p style="text-align: center;"><img alt="体验服更新后存在众多bug：双暴君登场 无伤打主宰" max-width="600" src="http://img1.dwstatic.com/5253wzry/1809/400326938172/400328522711.png"/></p>
+<p>　　个人资料界面的显示bug，在更新后首次点击头像打开后会出现异常的显示问题，如上图中的35级玩家数据，然后许多战绩都是比较奇葩的，例如巅峰积分6666分。点击社交动态后重新打开后就能正常的显示玩家的数据，不过再次打开还是会出现这个显示问题。</p>
+<p> </p>
+</div>
+<!-- 分页{ -->
+<!-- }分页 -->
+<ul class="list-hot">
+<li>
+<label for="">编辑推荐</label>
+<a href="http://wzry.duowan.com/kpl/" style="color:#F00" target="_blank">KPL秋季赛专题</a><span>|</span>
+<a href="http://wzry.duowan.com/tag/355941383473.html" target="_blank">更新公告</a><span>|</span>
+<a href="http://wzry.duowan.com/1703/354023330696.html" target="_blank">游戏礼包</a><span>|</span>
+<a href="http://wzry.duowan.com/1705/357903591490.html" target="_blank">实名认证</a><span>|</span>
+<a href="http://wzry.duowan.com/1704/356528101116.html" target="_blank">上分攻略</a><span>|</span>
+<a href="http://wzry.duowan.com/tag/327319818946.html" target="_blank">体验服爆料</a><span>|</span>
+<a href="http://wzry.duowan.com/yljj/" target="_blank">娱乐视频</a><span>|</span>
+</li>
+<li>
+<label for="">热门英雄</label>
+<a href="http://wzry.duowan.com/nezhavideo/" style="color:#F00" target="_blank">哪吒</a><span>|</span>
+<a href="http://wzry.duowan.com/gongbenwuzangvideo/" target="_blank">宫本武藏</a><span>|</span>
+<a href="http://wzry.duowan.com/niumovideo/" target="_blank">牛魔</a> <span>|</span>
+<a href="http://wzry.duowan.com/caiwenjivideo/" target="_blank">蔡文姬</a><span>|</span>
+<a href="http://wzry.duowan.com/wuzetianvideo/" target="_blank">武则天</a><span>|</span>
+<a href="http://wzry.duowan.com/direnjievideo/" target="_blank">狄仁杰</a><span>|</span>
+<a href="http://wzry.duowan.com/sunbinvideo/" target="_blank">孙膑</a><span>|</span>
+<a href="http://wzry.duowan.com/zhuangzhouvideo/" target="_blank">庄周</a><span>|</span>
+<a href="http://wzry.duowan.com/libaivideo/" target="_blank">李白</a><span>|</span>
+<a href="http://wzry.duowan.com/liubeivideo/" target="_blank">刘备</a><span>|</span>
+</li>
+<li>
+<label for="">最新爆料</label>
+<a href="http://wzry.duowan.com/1709/368705686541.html" target="_blank">KPL限定皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618758706.html" target="_blank">内测服资格</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618675073.html" target="_blank">周瑜重做</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618615106.html" target="_blank">新地图上线</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368445365319.html" target="_blank">SNK英雄</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368474413113.html" style="color:#F00" target="_blank">新英雄苏烈</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100508000.html" target="_blank">亚瑟新皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100440531.html" target="_blank">诸葛亮新皮肤</a>
+</li>
+<li>
+<label for="">皮肤爆料</label>
+<a href="http://wzry.duowan.com/1709/368624003415.html" target="_blank">S9赛季皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100440531.html" target="_blank">诸葛亮黄金分割率</a><span>|</span>
+<a href="http://wzry.duowan.com/1705/358511681210.html" target="_blank">貂蝉蝴蝶梦</a>
+</li>
+</ul>
+<div class="wx-wrap">
+<p>（关注公众号dwwzry，每天统计最新可领取的礼包&amp;活动~目前已统计有97个礼包）</p>
+<p><img alt="《王者荣耀》花木兰 归来的长城守卫军" src="http://img.dwstatic.com/5253wzry/1704/355501235411/1491546044572.jpg"/></p>
+</div>
+<div class="art-bot clearfix">
+<div class="fltR">
+<!-- 百度分享{ -->
+<div class="bdsharebuttonbox mod-share bdshare-button-style1-16" data-bd-bind="1457419676133">
+<span>分享到：</span>
+<a class="bds_tsina" data-cmd="tsina" href="#" title="分享到新浪微博"></a>
+<a class="bds_weixin" data-cmd="weixin" href="#" title="分享到微信"></a>
+<a class="bds_qzone" data-cmd="qzone" href="#" title="分享到QQ空间"></a>
+<a class="bds_sqq" data-cmd="sqq" href="#" title="分享到QQ好友"></a>
+<a class="bds_more" data-cmd="more" href="#"></a>
+</div>
+<script>
+                                    window._bd_share_config = {
+                                        "common": {
+                                            "bdSnsKey": {},
+                                            "bdMini": "1",
+                                            "bdMiniList": ["tieba", "douban", "bdhome", "tqq"],
+                                            "bdStyle": "1",
+                                            "bdSize": "40"
+                                        },
+                                        "share": {}
+                                    };
+                                    with (document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];
+                                </script>
+<link href="http://assets.dwstatic.com/project/share/1.0.0/css/share.css?t=201511" rel="stylesheet"/>
+<!-- }百度分享 -->
+</div>
+</div>
+</article>

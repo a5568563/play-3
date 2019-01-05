@@ -1,0 +1,9 @@
+<div id="text">
+<div class="ZQ-gap"></div>
+<p>　　<a href="http://lol.duowan.com/" target="_blank">英雄联盟</a><a href="http://news.duowan.com/" target="_blank">赛事</a>官博发出了一则公告：由于妮蔻在<a href="http://www.duowan.com/" target="_blank">游戏</a>内存在显示错误问题，在本次德杯<a href="http://news.duowan.com/" target="_blank">比赛</a>中禁止使用。</p>
+<p>　　<strong>原文如下：</strong></p>
+<p>　　由于当前版本<a href="http://lol.duowan.com/hero/" target="_blank">英雄</a>“妮蔻”存在游戏内显示错误问题，在本次德玛西亚杯比赛期间，“妮蔻”将默认处于禁选位，即在本次比赛中禁止使用。</p>
+<p>　　在显示问题修复后，“妮蔻”将会在后续的比赛中登场，感谢您的支持！</p>
+<p style="text-align: center;"><img alt="德杯妮蔻禁用公告：显示错误暂时禁用" src="http://img.dwstatic.com/lol/1812/409234573650/1545279400908.png"/></p>
+<div class="ZQ-gap"></div>
+</div>

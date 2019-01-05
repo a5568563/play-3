@@ -1,0 +1,19 @@
+<div id="text">
+<div class="ZQ-gap"></div>
+<p>　　<span>在昨日的韩国KeSPA杯赛上，GRF战队以2-0战胜了AFS战队，成功进入下一轮。</span></p>
+<p>　　<a href="http://news.duowan.com/" target="_blank">比赛</a>之后，GRF战队的ADC选手Viper接受了采访。</p>
+<p style="text-align:center;"><img alt="GRF Viper：重建队伍中SKT最难对付" src="http://img4.dwstatic.com/lol/1812/409880153431/409880583459.jpeg"/></p>
+<p>　　<span style="color:#0000FF;"><strong>问：你们以2-0轻松取胜，感觉如何？</strong></span></p>
+<p>　　<strong>Viper：</strong>虽然我很高兴，但还是有些时候挺郁闷的。我想我们下场要好好准备了。我们没有利用好我们的阵容，而且我的表现也不太好。</p>
+<p>　　<span style="color:#0000FF;"><strong>问：第一局队伍的翻盘获胜的。</strong></span></p>
+<p>　　<strong>Viper：</strong>我们觉得只要我们的表现和训练赛中一样，我们就能轻松取胜。然而，事与愿违，所以我对自己的表现并不满意。</p>
+<p>　　<span style="color:#0000FF;"><strong>问：你觉得新赛季中GRF会有怎样的表现呢？</strong></span></p>
+<p>　　<strong>Viper：</strong><span style="color:#FF0000;"><strong>好吧，我想所有重建的队伍当中SKT是最难对付的。</strong></span>不过，我还是不太确定，因为我们和其他队伍没有训练过太多。如果我能表现得好的话，我想我们下个赛季能取得好成绩的。</p>
+<p>　　<span style="color:#0000FF;"><strong>问：你的非ADC<a href="http://lol.duowan.com/hero/" target="_blank">英雄</a>很出名，所以我很期待你会拿出来什么。</strong></span></p>
+<p>　　<strong>Viper：</strong>我确实准备了点东西，但是如果我不先选自己的英雄的话，队伍就会陷入被动。我必须先拿出来自己的英雄，所以我不能用非ADC英雄。</p>
+<p>　　<span style="color:#0000FF;"><strong>问：后天的半决赛里，你们要面对SKT T1和Damwon的胜者。你对这场比赛有信心吗？</strong></span></p>
+<p>　　<strong>Viper：</strong>哪支队伍赢都是很强的对手。我们要多多准备。<span style="color:#FF0000;"><strong>今天的比赛过后，只要我发挥出最好的水平，我感觉我们就很有机会赢。</strong></span></p>
+<p>　　<span style="color:#0000FF;"><strong>问：最后有什么话吗？</strong></span></p>
+<p>　　<strong>Viper：</strong>因为上赛季结束得很让人郁闷，所以我非常努力地在准备。接下来我会拿出来出色的表现，所以我需要更多的支持！谢谢大家！</p>
+<div class="ZQ-gap"></div>
+</div>

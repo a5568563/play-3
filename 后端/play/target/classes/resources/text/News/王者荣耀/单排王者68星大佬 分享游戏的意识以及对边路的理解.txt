@@ -1,0 +1,106 @@
+<article>
+<h1>单排王者68星大佬 分享游戏的意识以及对边路的理解</h1>
+<address>
+<span>2018-09-10 15:19:00</span><span>来源：超级小龙人</span><span>作者：</span><a href="http://bbs.duowan.com/forum-2637-1.html" target="_blank">进入论坛</a>
+</address>
+<div id="text">
+<p>　　先上个我目前单排的段位图</p>
+<p img-box="img-box" style="text-align: center;"><img alt="单排王者68星大佬 分享游戏的意识以及对边路的理解" data-origin-src="https://i10.hoopchina.com.cn/hupuapp/bbs/162828612887694/thread_162828612887694_20180901092958_s_175560_o_w_1334_h_750_19126.jpg?x-oss-process=image/resize,w_800/format,webp" height="338" src="http://img.dwstatic.com/5253wzry/1809/400519056388/400519140019.jpeg" width="600"/></p>
+<p>　　我想说我是一个手残玩家，我确实只会玩一些简单没有操作难度的<a href="http://wzry.duowan.com/herovideo/" target="_blank">英雄</a>，但是在意识方面我自己有一些简单的理解，这帮我取得了我个人较理想的段位，我想在这里简单分享一下～</p>
+<p>　　首先说一下我个人是主玩边路辅助的，就是所谓的躺赢位～法师偶尔可以补一下，打野就是万不敢上场了，强势打野的操作一个都掌握不了～所以下面我就先说一下我对边路的理解～</p>
+<p>　　玩边路首先要做好抗压，如果你前几分钟就被抓了，你后面将一直处在一个劣势当中，你可能一直被压在塔下，你的对线英雄去支援了你还在塔下清线，你的对线英雄去支援几波以后你们全队可能就处在一个逆风之中了～</p>
+<p>　　所以边路首先要做到的就是不能被抓！如何不被抓，就需要你完全清楚对方打野的动向！</p>
+<p>　　如果对方是射手打野，那对面99%是红开，那么作为上路第一波就千万不能去跟对面硬刚了，对面打野红开抓上的可能性是非常高的！</p>
+<p>　　如果对面没抓上正常开，那么他耍一圈野的时间在1:30左右，这个时间点下路正好在清第二波线，这个时候就千万不能被对面诱惑去打架了，猥琐在草里吃经验即可～</p>
+<p>　　因为第一个红打完在0：45左右，那么下一个红间隔90s刷新就是在2:15，打完在2:25，这个时候很显然，对面打野拿红有极大可能抓上或者抓中了，这个时候中上就务必要猥琐了，如果没抓中上，那么对面打野2:40左右就应该在他们蓝区，那他抓人的目标就很可能定在中下路上，这个时候中下路就该猥琐了！以此类推第三个红刷新应该在3:55，打完在4:00左右，顺便说一下，一个buff刷新15以内对面打野肯定会去刷的，如果他没去刷，除非他抓人抓的飞起来，不然他是非常拖发育的，所以在前几分钟对面打野抓人的节奏基本是可以固定在上面几个时间节点的~</p>
+<p>　　之后对面打野的抓人节点也可以以此类推，这里我也有一点小心得分享，前8分钟内，第0、2、4、6、8分钟，对面打野基本就是在刷野，但是在第1、3、5、7分钟开始，对面打野基本已经把两片野区都刷完了，这个时候他可能做的事只有一件，那就是抓人！所以这个时间点要千万猥琐！</p>
+<p>　　如果对面不确定是红开还是蓝开，那么这个时候辅助就应该去下图<a href="http://wzry.duowan.com/chengyaojinvideo/" target="_blank">程咬金</a>位置获取视野</p>
+<p img-box="img-box" style="text-align: center;"><img alt="单排王者68星大佬 分享游戏的意识以及对边路的理解" data-origin-src="https://i10.hoopchina.com.cn/hupuapp/bbs/162828612887694/thread_162828612887694_20180901093528_s_115974_o_w_750_h_1334_69227.jpg?x-oss-process=image/resize,w_800/format,webp" height="1067" src="http://img.dwstatic.com/5253wzry/1809/400519056388/400519140020.jpeg" width="600"/></p>
+<p>　　这样就可以知道对面打野的刷野顺序了，如果辅助没有去，那么下路也可以去这个位置开视野，下路兵线35秒左右才交汇，你在这里30秒开对面蓝视野，然后再回下路也不会有任何损失，确定对面打野红蓝开以后要记得给队友报点～</p>
+<p>　　在之后的比赛里，边路英雄需要经常去对面野区开视野，这样你就可以知道对面下一个buff什么时候刷新，一般一个buff刷新15秒以内对面打野是一定会去拿的，那么他在他相对应的半区抓人的可能性也是非常大的！</p>
+<p>　　按照我这个思路在路人局基本就可以掌握对面打野的大体动向了，只要你不浪脱线基本是很难被抓的～</p>
+<p>　　在清楚对面打野动向的情况下边路英雄可以大胆去对面二塔断兵线，兵线的间隔是33秒，开局阶段边路兵线交汇大概要35秒，你如果在二塔断完兵线你差不多可以给自己创造40秒的自由时间，这段时间内你可以去反野可以去支援，这样你一个边路就也可以帮助队友取得优势了！</p>
+<p>　　有说的不清楚的地方可以问我，还有一些其他的细节我一时不知道该怎么讲，先说这么多吧</p>
+<p>　　补充一下，第一圈刷野的顺序也不一定都是顺着刷，但往往会围绕着小龙来刷，举个例子，小龙在对面红区，那对面射手打野拿完红很可能不会刷小野，然后直接去拿蓝，然后再从蓝区的小野一路刷回红区，这样他就可以围绕小龙抓中或者抓上，但凡抓残或者抓死一个他就可以开龙了～</p>
+<p>　　但是第二圈开始打野就一定是顺着刷了，这样就可以回到上面的思路了～</p>
+<p>　　希望对大家有帮助，祝大家上分顺利，即便偶尔掉分也要心平气和，不要影响到自己跟家人朋友哦～</p>
+<p img-box="img-box" style="text-align: center;"><img alt="单排王者68星大佬 分享游戏的意识以及对边路的理解" data-origin-src="https://i10.hoopchina.com.cn/hupuapp/bbs/162828612887694/thread_162828612887694_20180901095030_s_74134_o_w_661_h_678_91990.jpg?x-oss-process=image/resize,w_800/format,webp" height="513" src="http://img4.dwstatic.com/5253wzry/1809/400519056388/400519140021.jpeg" width="500"/></p>
+<p> </p>
+</div>
+<!-- 分页{ -->
+<!-- }分页 -->
+<ul class="list-hot">
+<li>
+<label for="">编辑推荐</label>
+<a href="http://wzry.duowan.com/kpl/" style="color:#F00" target="_blank">KPL秋季赛专题</a><span>|</span>
+<a href="http://wzry.duowan.com/tag/355941383473.html" target="_blank">更新公告</a><span>|</span>
+<a href="http://wzry.duowan.com/1703/354023330696.html" target="_blank">游戏礼包</a><span>|</span>
+<a href="http://wzry.duowan.com/1705/357903591490.html" target="_blank">实名认证</a><span>|</span>
+<a href="http://wzry.duowan.com/1704/356528101116.html" target="_blank">上分攻略</a><span>|</span>
+<a href="http://wzry.duowan.com/tag/327319818946.html" target="_blank">体验服爆料</a><span>|</span>
+<a href="http://wzry.duowan.com/yljj/" target="_blank">娱乐视频</a><span>|</span>
+</li>
+<li>
+<label for="">热门英雄</label>
+<a href="http://wzry.duowan.com/nezhavideo/" style="color:#F00" target="_blank">哪吒</a><span>|</span>
+<a href="http://wzry.duowan.com/gongbenwuzangvideo/" target="_blank">宫本武藏</a><span>|</span>
+<a href="http://wzry.duowan.com/niumovideo/" target="_blank">牛魔</a> <span>|</span>
+<a href="http://wzry.duowan.com/caiwenjivideo/" target="_blank">蔡文姬</a><span>|</span>
+<a href="http://wzry.duowan.com/wuzetianvideo/" target="_blank">武则天</a><span>|</span>
+<a href="http://wzry.duowan.com/direnjievideo/" target="_blank">狄仁杰</a><span>|</span>
+<a href="http://wzry.duowan.com/sunbinvideo/" target="_blank">孙膑</a><span>|</span>
+<a href="http://wzry.duowan.com/zhuangzhouvideo/" target="_blank">庄周</a><span>|</span>
+<a href="http://wzry.duowan.com/libaivideo/" target="_blank">李白</a><span>|</span>
+<a href="http://wzry.duowan.com/liubeivideo/" target="_blank">刘备</a><span>|</span>
+</li>
+<li>
+<label for="">最新爆料</label>
+<a href="http://wzry.duowan.com/1709/368705686541.html" target="_blank">KPL限定皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618758706.html" target="_blank">内测服资格</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618675073.html" target="_blank">周瑜重做</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618615106.html" target="_blank">新地图上线</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368445365319.html" target="_blank">SNK英雄</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368474413113.html" style="color:#F00" target="_blank">新英雄苏烈</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100508000.html" target="_blank">亚瑟新皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100440531.html" target="_blank">诸葛亮新皮肤</a>
+</li>
+<li>
+<label for="">皮肤爆料</label>
+<a href="http://wzry.duowan.com/1709/368624003415.html" target="_blank">S9赛季皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100440531.html" target="_blank">诸葛亮黄金分割率</a><span>|</span>
+<a href="http://wzry.duowan.com/1705/358511681210.html" target="_blank">貂蝉蝴蝶梦</a>
+</li>
+</ul>
+<div class="wx-wrap">
+<p>（关注公众号dwwzry，每天统计最新可领取的礼包&amp;活动~目前已统计有97个礼包）</p>
+<p><img alt="《王者荣耀》花木兰 归来的长城守卫军" src="http://img.dwstatic.com/5253wzry/1704/355501235411/1491546044572.jpg"/></p>
+</div>
+<div class="art-bot clearfix">
+<div class="fltR">
+<!-- 百度分享{ -->
+<div class="bdsharebuttonbox mod-share bdshare-button-style1-16" data-bd-bind="1457419676133">
+<span>分享到：</span>
+<a class="bds_tsina" data-cmd="tsina" href="#" title="分享到新浪微博"></a>
+<a class="bds_weixin" data-cmd="weixin" href="#" title="分享到微信"></a>
+<a class="bds_qzone" data-cmd="qzone" href="#" title="分享到QQ空间"></a>
+<a class="bds_sqq" data-cmd="sqq" href="#" title="分享到QQ好友"></a>
+<a class="bds_more" data-cmd="more" href="#"></a>
+</div>
+<script>
+                                    window._bd_share_config = {
+                                        "common": {
+                                            "bdSnsKey": {},
+                                            "bdMini": "1",
+                                            "bdMiniList": ["tieba", "douban", "bdhome", "tqq"],
+                                            "bdStyle": "1",
+                                            "bdSize": "40"
+                                        },
+                                        "share": {}
+                                    };
+                                    with (document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];
+                                </script>
+<link href="http://assets.dwstatic.com/project/share/1.0.0/css/share.css?t=201511" rel="stylesheet"/>
+<!-- }百度分享 -->
+</div>
+</div>
+</article>

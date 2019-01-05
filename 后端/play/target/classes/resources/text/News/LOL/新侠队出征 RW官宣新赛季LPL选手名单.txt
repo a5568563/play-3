@@ -1,0 +1,7 @@
+<div id="text">
+<div class="ZQ-gap"></div>
+<p>　　昨夜<span>，RW战队在微博官宣了战队新赛季在<a href="http://lol.duowan.com/LPL/" target="_blank">LPL</a>与LDL出战的队员名单，具体名单如下：</span></p>
+<p>　　相比于德杯参赛名单，RW战队又新补进一名上单选手（ID：Zhaoyun）与一名中单选手（ID：Jingtian）</p>
+<p style="text-align:center;"><img alt="新侠队出征 RW官宣新赛季LPL选手名单" src="http://img.dwstatic.com/lol/1812/409730245870/409730399268.jpg"/></p>
+<div class="ZQ-gap"></div>
+</div>

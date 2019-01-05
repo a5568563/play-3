@@ -1,0 +1,24 @@
+<div class="news_main">
+<div class="title">
+<h1>英雄·所敬略同——2018完美盛典宣传片</h1>
+<h3>
+								2018-12-05                                <span class="zoom" id="zoom">
+                                    【字号：
+                                    <a data-size="16" href="javascript:;">大</a> 
+                                    <a data-size="14" href="javascript:;">中</a> 
+                                    <a data-size="12" href="javascript:;">小</a>
+                                    】
+                                </span>
+<!-- 来源：-->
+<span class="comments-count" id="comments-count">
+<i class="icon icon-comments"></i>
+<em>0</em>
+</span>
+</h3>
+</div>
+<div class="content">
+<p style="text-align: center;"><span background-color:="" font-size:="" hiragino="" micro="" microsoft="" pingfang="" sans="" style="color: rgb(51, 51, 51); font-family: Arial, " wenquanyi=""></span></p><div id="youkuAPI"><script src="https://player.youku.com/jsapi"></script></div><div class="youku_block" id="youku_player_XMzk1MDU3NjU0MA" style="margin: 0px auto; width: 635px; height: 480px;"> </div><script>var playerXMzk1MDU3NjU0MA = new YKU.Player('youku_player_XMzk1MDU3NjU0MA',{ client_id: 'c69ba80d21db5947', vid: 'XMzk1MDU3NjU0MA'});</script><p> </p><p> </p><p>当经历失败，你会直面结果，还是总结教训</p><p>当身处逆境，你会选择坚守，还是尝试突围</p><p>有一天，你明白了失败与胜利一样可贵，坚守和突围都是面对</p><p>是自己的感悟，还是那些年赛场上的领路者，带你跳出囹圄，走到这里</p><p>每个人都有自己青春的巡礼，正如每个人心中的一段英雄梦</p><p>你的电竞盛典，现在由你主导</p><p><br/></p> <div class="journalism-code" style="color:red;">
+<img alt="" src="/news20160808/images/journalism-codes.jpg"/>
+</div>
+</div>
+</div>

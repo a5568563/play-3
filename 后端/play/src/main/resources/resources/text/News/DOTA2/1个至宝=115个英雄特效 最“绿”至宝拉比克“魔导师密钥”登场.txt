@@ -1,0 +1,20 @@
+<div class="news_main">
+<div class="title">
+<h1>1个至宝=115个英雄特效 最“绿”至宝拉比克“魔导师密钥”登场</h1>
+<h3>
+								2018-12-28                                <span class="zoom" id="zoom">
+                                    【字号：
+                                    <a data-size="16" href="javascript:;">大</a> 
+                                    <a data-size="14" href="javascript:;">中</a> 
+                                    <a data-size="12" href="javascript:;">小</a>
+                                    】
+                                </span>
+<!-- 来源：-->
+</h3>
+</div>
+<div class="content">
+<div id="youkuAPI"><script src="https://player.youku.com/jsapi"></script></div><div class="youku_block" id="youku_player_XMzk4NzE2NTM3Mg" style="margin: 0px auto; width: 635px; height: 480px;"> </div><script>var playerXMzk4NzE2NTM3Mg = new YKU.Player('youku_player_XMzk4NzE2NTM3Mg',{ client_id: 'c69ba80d21db5947', vid: 'XMzk4NzE2NTM3Mg'});</script><p> </p><p> </p><p style="text-align: center;"><br/></p> <div class="journalism-code" style="color:red;">
+<img alt="" src="/news20160808/images/journalism-codes.jpg"/>
+</div>
+</div>
+</div>

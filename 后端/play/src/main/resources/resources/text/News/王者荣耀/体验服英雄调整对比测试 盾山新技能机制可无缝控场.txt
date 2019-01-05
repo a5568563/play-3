@@ -1,0 +1,98 @@
+<article>
+<h1>体验服英雄调整对比测试 盾山新技能机制可无缝控场</h1>
+<address>
+<span>2018-08-30 11:37:17</span><span>来源：某喵</span><span>作者：</span><a href="http://bbs.duowan.com/forum-2637-1.html" target="_blank">进入论坛</a>
+</address>
+<div id="text">
+<p>　　<a href="http://wzry.duowan.com/" target="_blank">王者荣耀</a><a href="http://wzry.duowan.com/tag/327319818946.html" target="_blank">体验服</a>今日更新调整三个<a href="http://wzry.duowan.com/herovideo/" target="_blank">英雄</a>，本篇来具体测试下每个英雄的技能调整变化。</p>
+<p style="text-align: center;"><img alt="体验服英雄调整对比测试 盾山新技能机制可无缝控场" max-width="600" src="http://img3.dwstatic.com/5253wzry/1808/399555254132/399555437778.jpeg"/></p>
+<p>　　首先是<a href="http://wzry.duowan.com/bailixuancevideo/" target="_blank">百里玄策</a>的小幅度加强，提升了普攻被动的远端伤害5%，这个加强的幅度比较小，实际带来的伤害提升不大。不过在打野时的伤害会有稍微提升，在二技能和打野刀的加成下每次伤害会提高二十点左右，清野速度稍微加快。</p>
+<p style="text-align: center;"><img alt="体验服英雄调整对比测试 盾山新技能机制可无缝控场" max-width="600" src="http://img2.dwstatic.com/5253wzry/1808/399555254132/399555437779.jpeg"/></p>
+<p>　　盾山加强两个技能效果，首先是大招释放时直接增加了一个抬手击退能力，可以将身周小范围的目标朝指定释放位置击退，然后大盾生成时二次击退。这个效果可以直接两段控制击退目标，并且提升了对身后小范围目标的控制，提升盾山反打速度。</p>
+<p style="text-align: center;"><img alt="体验服英雄调整对比测试 盾山新技能机制可无缝控场" max-width="600" src="http://img1.dwstatic.com/5253wzry/1808/399555254132/399555437780.jpeg"/></p>
+<p>　　另外二技能增加了可以在大招释放期间使用的效果，在大盾完成放置的一秒后，可以自由拖动二技能并打断大招直接释放二技能。这个效果主要的能力就是在敌方绕过盾山时，盾山可以减少取消大盾的后摇，直接应对敌方绕后。</p>
+<p style="text-align: center;"><img alt="体验服英雄调整对比测试 盾山新技能机制可无缝控场" max-width="600" src="http://img1.dwstatic.com/5253wzry/1808/399555254132/399555437781.gif"/></p>
+<p>　　这个新的连招方式无疑提高了盾山防守或进攻时的应变能力，大招释放期间盾山无法进行任意操作，二技能的新增效果可以使盾山灵活的应变局势变化，并且在敌方突破盾山时，可以相应的阻拦敌方。</p>
+<p style="text-align: center;"><img alt="体验服英雄调整对比测试 盾山新技能机制可无缝控场" max-width="600" src="http://img5.dwstatic.com/5253wzry/1808/399555254132/399555437782.jpeg"/></p>
+<p>　　最后是盾山目前的四技能与塔合体效果，目前测试依旧与刚上线时一致，满级时为防御塔附加一千二的双抗防御（防御塔基础双抗两百），并且最高修复910~1400的血量。</p>
+<p style="text-align: center;"><img alt="体验服英雄调整对比测试 盾山新技能机制可无缝控场" max-width="600" src="http://img2.dwstatic.com/5253wzry/1808/399555254132/399555437783.jpeg"/></p>
+<p>　　<a href="http://wzry.duowan.com/libaivideo/" target="_blank">李白</a>更新后修复了一技能的效果问题，与<a href="http://wzry.duowan.com/tag/327320148779.html" target="_blank">正式服</a>保持一致的眩晕效果，无叠加被动层数能力。另外按照今日调整后的李白伤害进行对比测试，六神装下李白的伤害依旧是比正式服稍微高出一些。前期的输出能力也基本与正式服一致，没有增强或者削弱。</p>
+<p> </p>
+</div>
+<!-- 分页{ -->
+<!-- }分页 -->
+<ul class="list-hot">
+<li>
+<label for="">编辑推荐</label>
+<a href="http://wzry.duowan.com/kpl/" style="color:#F00" target="_blank">KPL秋季赛专题</a><span>|</span>
+<a href="http://wzry.duowan.com/tag/355941383473.html" target="_blank">更新公告</a><span>|</span>
+<a href="http://wzry.duowan.com/1703/354023330696.html" target="_blank">游戏礼包</a><span>|</span>
+<a href="http://wzry.duowan.com/1705/357903591490.html" target="_blank">实名认证</a><span>|</span>
+<a href="http://wzry.duowan.com/1704/356528101116.html" target="_blank">上分攻略</a><span>|</span>
+<a href="http://wzry.duowan.com/tag/327319818946.html" target="_blank">体验服爆料</a><span>|</span>
+<a href="http://wzry.duowan.com/yljj/" target="_blank">娱乐视频</a><span>|</span>
+</li>
+<li>
+<label for="">热门英雄</label>
+<a href="http://wzry.duowan.com/nezhavideo/" style="color:#F00" target="_blank">哪吒</a><span>|</span>
+<a href="http://wzry.duowan.com/gongbenwuzangvideo/" target="_blank">宫本武藏</a><span>|</span>
+<a href="http://wzry.duowan.com/niumovideo/" target="_blank">牛魔</a> <span>|</span>
+<a href="http://wzry.duowan.com/caiwenjivideo/" target="_blank">蔡文姬</a><span>|</span>
+<a href="http://wzry.duowan.com/wuzetianvideo/" target="_blank">武则天</a><span>|</span>
+<a href="http://wzry.duowan.com/direnjievideo/" target="_blank">狄仁杰</a><span>|</span>
+<a href="http://wzry.duowan.com/sunbinvideo/" target="_blank">孙膑</a><span>|</span>
+<a href="http://wzry.duowan.com/zhuangzhouvideo/" target="_blank">庄周</a><span>|</span>
+<a href="http://wzry.duowan.com/libaivideo/" target="_blank">李白</a><span>|</span>
+<a href="http://wzry.duowan.com/liubeivideo/" target="_blank">刘备</a><span>|</span>
+</li>
+<li>
+<label for="">最新爆料</label>
+<a href="http://wzry.duowan.com/1709/368705686541.html" target="_blank">KPL限定皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618758706.html" target="_blank">内测服资格</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618675073.html" target="_blank">周瑜重做</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368618615106.html" target="_blank">新地图上线</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368445365319.html" target="_blank">SNK英雄</a><span>|</span>
+<a href="http://wzry.duowan.com/1709/368474413113.html" style="color:#F00" target="_blank">新英雄苏烈</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100508000.html" target="_blank">亚瑟新皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100440531.html" target="_blank">诸葛亮新皮肤</a>
+</li>
+<li>
+<label for="">皮肤爆料</label>
+<a href="http://wzry.duowan.com/1709/368624003415.html" target="_blank">S9赛季皮肤</a><span>|</span>
+<a href="http://wzry.duowan.com/1708/368100440531.html" target="_blank">诸葛亮黄金分割率</a><span>|</span>
+<a href="http://wzry.duowan.com/1705/358511681210.html" target="_blank">貂蝉蝴蝶梦</a>
+</li>
+</ul>
+<div class="wx-wrap">
+<p>（关注公众号dwwzry，每天统计最新可领取的礼包&amp;活动~目前已统计有97个礼包）</p>
+<p><img alt="《王者荣耀》花木兰 归来的长城守卫军" src="http://img.dwstatic.com/5253wzry/1704/355501235411/1491546044572.jpg"/></p>
+</div>
+<div class="art-bot clearfix">
+<div class="fltR">
+<!-- 百度分享{ -->
+<div class="bdsharebuttonbox mod-share bdshare-button-style1-16" data-bd-bind="1457419676133">
+<span>分享到：</span>
+<a class="bds_tsina" data-cmd="tsina" href="#" title="分享到新浪微博"></a>
+<a class="bds_weixin" data-cmd="weixin" href="#" title="分享到微信"></a>
+<a class="bds_qzone" data-cmd="qzone" href="#" title="分享到QQ空间"></a>
+<a class="bds_sqq" data-cmd="sqq" href="#" title="分享到QQ好友"></a>
+<a class="bds_more" data-cmd="more" href="#"></a>
+</div>
+<script>
+                                    window._bd_share_config = {
+                                        "common": {
+                                            "bdSnsKey": {},
+                                            "bdMini": "1",
+                                            "bdMiniList": ["tieba", "douban", "bdhome", "tqq"],
+                                            "bdStyle": "1",
+                                            "bdSize": "40"
+                                        },
+                                        "share": {}
+                                    };
+                                    with (document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];
+                                </script>
+<link href="http://assets.dwstatic.com/project/share/1.0.0/css/share.css?t=201511" rel="stylesheet"/>
+<!-- }百度分享 -->
+</div>
+</div>
+</article>

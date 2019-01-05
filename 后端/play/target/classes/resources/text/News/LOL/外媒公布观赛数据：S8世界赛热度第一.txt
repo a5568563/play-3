@@ -1,0 +1,20 @@
+<div id="text">
+<div class="ZQ-gap"></div>
+<p>　　<span>2018年，全世界的玩家朋友们有幸见证了一场又一场精彩的<a href="http://news.duowan.com/" target="_blank">电竞</a><a href="http://news.duowan.com/" target="_blank">赛事</a>。各种<a href="http://news.duowan.com/" target="_blank">比赛</a>、联赛以及其他活动让我们目不暇接。今天国外媒体ESC为我们分析了本年度中最受欢迎的一些电竞赛事。</span></p>
+<p>　　在开始之前，先来说一下收集这些数据的方式。比如需要指出的就是TI的预选赛是在一些个人页面中进行直播的。像这种类型的直播在今天的数据中也被认为是“其他来源”。</p>
+<p style="text-align:center;"><img alt="外媒公布观赛数据：S8世界赛热度第一" src="http://img4.dwstatic.com/lol/1812/409782015962/409782312444.png"/></p>
+<p style="text-align:center;">2018年最受欢迎的电竞联赛（基于Twitch和Youtube的观看时长）</p>
+<p>　　看来从世界上一些主要的电竞赛事说起最合适了——比如<a href="http://lol.duowan.com/" target="_blank">英雄联盟</a>的LCS联赛以及守望先锋联赛。守望先锋联赛是我们榜单上面观看人数最多的联赛。这是因为守望先锋联赛的第一赛季中的四个阶段总计有555小时的播出时长。与此同时，距离它最近的LCS联赛只有141小时。</p>
+<p>　　大家都能预想到，拳头的<a href="http://lol.duowan.com/hero/" target="_blank">英雄</a>联盟赛事也进入了前五。北美，欧洲以及韩国的联赛占据了前五当中的三个席位。欧洲LCS联赛位列第五，相比于北美联赛少了将近1/4的时长。而由于韩国<a href="http://lol.duowan.com/LCK/" target="_blank">LCK</a>的播出时长高达301小时，所以它与北美LCS不相上下。</p>
+<p>　　第三位的是堡垒之夜夏季联赛，它只有99小时的播出时长。EPIC在第一年制作的联赛热度非常高。尽管它的年龄还小，但是却能够和全世界上最大的巨头，比如LCS相抗衡——甚至超越了LCK。</p>
+<p style="text-align:center;"><img alt="外媒公布观赛数据：S8世界赛热度第一" src="http://img1.dwstatic.com/lol/1812/409782015962/409782312445.png"/></p>
+<p style="text-align:center;">2018最受欢迎的电竞<a href="http://www.duowan.com/" target="_blank">游戏</a>与最大的电竞赛事（基于Twitch和Youtube的观看时长，绿色为当前，黄色为过往）</p>
+<p>　　像AoV（王者荣耀国际版）以及其AoV世界赛的数据让所有人都感到意外。虽然两次赛事仅仅间隔六个月的时间，但是它的观看数据却从3百万增长到了8百万。这样的数据增长不仅仅让我们会思考这个项目的热度如何，同时也清楚地显示出了大家对手机游戏兴趣的增长。</p>
+<p>　　在所有的这些“世界赛”当中，<a href="http://pb.duowan.com/" target="_blank">绝地求生</a>终于有了闪光的机会。今年绝地求生最主要的赛事在全平台的观看数达到第四名。总计观看数达到了940万。</p>
+<p>　　同时，我们可以看出那些“传统”热门电竞项目的热度再次激增——其中的代表就是英雄联盟，CSGO以及Dota2等项目。而2018年英雄联盟世界赛则是绝对的领头羊。随后是TI8以及ELEAGUE Major。</p>
+<p style="text-align:center;"><img alt="外媒公布观赛数据：S8世界赛热度第一" src="http://img.dwstatic.com/lol/1812/409782015962/409782312446.png"/></p>
+<p style="text-align:center;">2018最受欢迎的电竞赛事（基于Twitch和Youtube的观看时长，绿色为当前，黄色为过往）</p>
+<p>　　英雄联盟方面，相比于2018世界赛所取得的成功，今年的<a href="http://lol.duowan.com/MSI/" target="_blank">季中冠军赛</a>则并不尽如人意。这些年以来，季中冠军赛的热度首次有所下降。一定程度上来说，这可能与决赛中有中国队伍有关，同时也受到了西方队伍糟糕表现的影响。另外还有一点，这次<a href="http://lol.duowan.com/MSI/" target="_blank">季中赛</a>的比赛时间通常不适合欧美观众观看，都是在工作日的白天进行。</p>
+<p>　　如果我们把东方平台的观众数据计算进来，那么西雅图那些游戏公司的产品则会暗淡很多。亚洲玩家更加重视英雄联盟和绝地求生这类游戏，同时还有一些手机端的游戏。不过我们的图表中没有考虑这部分，让大家更好地看到了这些赛事在欧美观众心中的等级——谁也不知道明年又会是什么样。</p>
+<div class="ZQ-gap"></div>
+</div>
